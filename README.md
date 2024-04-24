@@ -104,6 +104,7 @@
 
 ## Batchfile 
 
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
@@ -730,7 +731,7 @@
 - [acorn-io/baaah](https://github.com/acorn-io/baaah) - Controller framework born out of frustration
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [gearnode/terraform-kubernetes-get-secret](https://github.com/gearnode/terraform-kubernetes-get-secret) - Terraform module to get value in Kubernetes secrets store
 - [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang
@@ -819,7 +820,7 @@
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - [jamesog/scan](https://github.com/jamesog/scan) - Import and display Masscan data
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
-- [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for bootstrapping Flux
+- [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform and OpenTofu provider for bootstrapping Flux
 - [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
@@ -1173,7 +1174,6 @@
 ## HTML 
 
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
-- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [ArchiveTeam/ludios_wpull](https://github.com/ArchiveTeam/ludios_wpull) - wpull fork with fixes and faster parsing using html5-parser; used by grab-site; should go away when wpull is similarly improved
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
@@ -1354,7 +1354,7 @@
 - [mchangrh/why-is-sb-down](https://github.com/mchangrh/why-is-sb-down) - Why is SponsorBlock down?!
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
-- [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - https://hub.docker.com/r/awesometechnologies/synapse-admin
+- [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - Admin console for synapse Matrix homeserver
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [rjackson/steal-hellofresh-pdfs](https://github.com/rjackson/steal-hellofresh-pdfs) - i want all of the recipe cards without waiting for all the boxes
@@ -1869,6 +1869,7 @@
 
 ## Python 
 
+- [faragher/ReticulumExamples](https://github.com/faragher/ReticulumExamples) - 
 - [badkeys/badkeys](https://github.com/badkeys/badkeys) - Tool to find common vulnerabilities in cryptographic public keys
 - [acehoss/rnsh](https://github.com/acehoss/rnsh) - rnsh is a command-line utility written in Python that facilitates shell sessions over Reticulum networks and aims to provide a similar experience to SSH.
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
@@ -1885,6 +1886,7 @@
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [mrihtar/SRTM1-Global](https://github.com/mrihtar/SRTM1-Global) - Tools for parsing and using USGS SRTM 1 Arc-Second Global (30m) and ALOS World 3D-30m (AW3D30) elevation data
 - [Libr-AI/OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Loki: Open-source solution designed to automate the process of verifying factuality
 - [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
