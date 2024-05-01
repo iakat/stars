@@ -36,6 +36,7 @@
 - [Jsonnet](#jsonnet)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Logos](#logos)
@@ -161,7 +162,7 @@
 - [FindMyCat/embedded-software](https://github.com/FindMyCat/embedded-software) - Embedded Software Monorepo for FindMyCat
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [dgiardini/rtl-ais](https://github.com/dgiardini/rtl-ais) - A simple AIS tuner and generic dual-frequency FM demodulator
-- [ddosify/alaz](https://github.com/ddosify/alaz) - Alaz: Advanced eBPF Agent for Kubernetes Observability – Effortlessly monitor K8s service interactions and performance metrics in your K8s environment. Gain in-depth insights with service maps, metric
+- [getanteon/alaz](https://github.com/getanteon/alaz) - Alaz: Advanced eBPF Agent for Kubernetes Observability – Effortlessly monitor K8s service interactions and performance metrics in your K8s environment. Gain in-depth insights with service maps, metric
 - [szpajder/libacars](https://github.com/szpajder/libacars) - A library for decoding various ACARS message payloads
 - [szpajder/dumpvdl2](https://github.com/szpajder/dumpvdl2) - VDL Mode 2 message decoder and protocol analyzer
 - [mnakada/atomcam_tools](https://github.com/mnakada/atomcam_tools) - 
@@ -194,7 +195,7 @@
 - [cnlohr/rv003usb](https://github.com/cnlohr/rv003usb) - CH32V003 RISC-V Pure Software USB Controller
 - [antirez/protoview](https://github.com/antirez/protoview) - Flipper Zero app to display known and unknown signals
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
-- [cnlohr/ch32v003fun](https://github.com/cnlohr/ch32v003fun) - An open source software development stack for the CH32V003, a 10¢ 48 MHz RISC-V Microcontroller
+- [cnlohr/ch32v003fun](https://github.com/cnlohr/ch32v003fun) - An open source software development stack for the CH32V003 10¢ 48 MHz RISC-V Microcontroller - as well as many other chips within the ch32v/x line.
 - [kaniini/envsubst](https://github.com/kaniini/envsubst) - 
 - [daanx/mimalloc-bench](https://github.com/daanx/mimalloc-bench) - Suite for benchmarking malloc implementations.
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
@@ -346,6 +347,7 @@
 
 ## C++ 
 
+- [liamcottle/reticulum-mcu](https://github.com/liamcottle/reticulum-mcu) - 
 - [faydr/QMesh](https://github.com/faydr/QMesh) - QMesh: a synchronized flooded mesh network for voice over LoRa
 - [jhiggason/lorawirelesstracker](https://github.com/jhiggason/lorawirelesstracker) - Heltec Wireless Tracker (MakerFocus) ESP32/Oled/GNSS/Lora SKU: ZC-193-915
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
@@ -392,7 +394,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
-- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a sandbox project hosted by the CNCF Foundation. It's cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage
 - [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+, HackRF, SDRplay and SoapySDR
 - [jontio/JAERO](https://github.com/jontio/JAERO) - Demodulate and decode Aero signals. These signals contain SatCom ACARS messages as used by planes beyond VHF ACARS range
@@ -492,7 +494,7 @@
 
 ## Crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## D 
 
@@ -529,6 +531,7 @@
 
 ## Elixir 
 
+- [progval/matrix2051](https://github.com/progval/matrix2051) - A Matrix gateway for IRC: connect to Matrix from your favorite IRC client.
 - [recursiveGecko/race_bot](https://github.com/recursiveGecko/race_bot) - An Elixir project dedicated to processing live data from Formula 1 races.
 
 ## Elm 
@@ -542,6 +545,8 @@
 
 ## Go 
 
+- [sashkachan/tribler-arr-shim](https://github.com/sashkachan/tribler-arr-shim) - Tribler Arr integration shim. Translates common API calls from *arr apps to Tribler.
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [picosh/pico](https://github.com/picosh/pico) - hacker labs - open source and managed web services leveraging SSH
 - [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr) - LZR quickly detects and fingerprints unexpected services running on unexpected ports.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
@@ -1019,7 +1024,7 @@
 - [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to create multi-instance SaaS from Helm charts using Kubernetes-native APIs
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
@@ -1139,7 +1144,7 @@
 - [oreqizer/slack-leet](https://github.com/oreqizer/slack-leet) - :rice_cracker: A script made for writing 13:37 every day at 13:37 to a given slack channel.
 - [dtan4/k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [irccloud/irccat](https://github.com/irccloud/irccat) - cat to IRC
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
@@ -1239,7 +1244,8 @@
 
 ## Java 
 
-- [kdhrubo/db2rest](https://github.com/kdhrubo/db2rest) - Instant low-code REST DATA API platform for databases.Combine your data with language models(LM/LLMS) to rapidly deliver context-aware, intelligent applications.
+- [iipc/warc2html](https://github.com/iipc/warc2html) - Converts WARC files to static HTML
+- [kdhrubo/db2rest](https://github.com/kdhrubo/db2rest) - Instant low-code REST DATA API platform for databases. Connect any database, run anywhere.
 - [Hafthor/zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting csv/tsv to/from zip-separated-values
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [deptofdefense/AndroidTacticalAssaultKit-CIV](https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV) - 
@@ -1291,6 +1297,7 @@
 
 ## JavaScript 
 
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
 - [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) - A web client for WeeChat
 - [reminiflux/reminiflux](https://github.com/reminiflux/reminiflux) - Alternative web frontend for miniflux. http://reminiflux.github.io
@@ -1556,6 +1563,10 @@
 - [Kshitij68/Google-Location-History](https://github.com/Kshitij68/Google-Location-History) - Data Analysis on my Google Location History data
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
+
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 
 ## Kotlin 
 
@@ -1869,6 +1880,10 @@
 
 ## Python 
 
+- [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+- [osmcode/pyosmium](https://github.com/osmcode/pyosmium) - Python bindings for libosmium
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [faragher/POPR](https://github.com/faragher/POPR) - Reticulum LXM distribution based on Post Office Protocol
 - [faragher/ReticulumExamples](https://github.com/faragher/ReticulumExamples) - 
 - [badkeys/badkeys](https://github.com/badkeys/badkeys) - Tool to find common vulnerabilities in cryptographic public keys
 - [acehoss/rnsh](https://github.com/acehoss/rnsh) - rnsh is a command-line utility written in Python that facilitates shell sessions over Reticulum networks and aims to provide a similar experience to SSH.
@@ -1909,7 +1924,7 @@
 - [matheusfillipe/g4firc](https://github.com/matheusfillipe/g4firc) - gpt4free irc bot
 - [pr3d4t0r/sopel_ai](https://github.com/pr3d4t0r/sopel_ai) - PerplexiPy / Perplexity AI / Ollama/llama.cpp plug-in for the Sopel bot
 - [Amsterdam-bene/blablabla](https://github.com/Amsterdam-bene/blablabla) - A chatbot service bene.
-- [dillonwilliams/signal-chatgpt](https://github.com/dillonwilliams/signal-chatgpt) - Signal-ChatGPT relay via OpenAI API, live at +1-775-235-2686
+- [dillonwilliams/signal-chatgpt](https://github.com/dillonwilliams/signal-chatgpt) - Signal-ChatGPT relay via OpenAI API
 - [cycneuramus/signal-aichat](https://github.com/cycneuramus/signal-aichat) - An AI chatbot for Signal powered by Google Bard, Bing Chat, ChatGPT, HuggingChat, and llama.cpp
 - [wiedehopf/docker-acars2pos](https://github.com/wiedehopf/docker-acars2pos) - Ingest ACARS, VDLM2, and HFDL message as JSON and output aircraft positions as SBS.
 - [mattsta/redisfuse](https://github.com/mattsta/redisfuse) - FUSE File System for Redis specializing in CRUDing strings and hashes (and R of everything else) (Note: this is obviously ancient and is only a historical artifact now; not really a good example of co
@@ -2041,7 +2056,7 @@
 - [Max-Manning/passiveRadar](https://github.com/Max-Manning/passiveRadar) - Processing code for a FM radio based passive bistatic radar
 - [DevOps-Nirvana/Kubernetes-Volume-Autoscaler](https://github.com/DevOps-Nirvana/Kubernetes-Volume-Autoscaler) - Autoscaling volumes for Kubernetes (with the help of Prometheus)
 - [db0/pythorhead](https://github.com/db0/pythorhead) - A python library for interacting with Lemmy
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [kaniini/jejune](https://github.com/kaniini/jejune) - no-nonsense activitypub implementation
 - [jshumphrey/f1db](https://github.com/jshumphrey/f1db) - This Python code maintains a SQLite database of Formula One race data, and provides some functionality to facilitate the process of running queries against it, and visualizing the output of those quer
@@ -2458,6 +2473,7 @@
 
 ## Rust 
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [bakape/shamichan](https://github.com/bakape/shamichan) - anonymous realtime imageboard focused on high performance and transparent moderation
@@ -2552,6 +2568,7 @@
 
 ## Shell 
 
+- [throwaway96/dejavuln-autoroot](https://github.com/throwaway96/dejavuln-autoroot) - Exploit to root webOS TVs using DejaVuln and set up Homebrew Channel
 - [edera-dev/kernels](https://github.com/edera-dev/kernels) - Linux kernels for consumption by Krata, published to OCI
 - [kx1t/docker-noisecapt](https://github.com/kx1t/docker-noisecapt) - 
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
@@ -2560,7 +2577,6 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - An interpretation of the Ubuntu spirit built on Fedora technology
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [wiedehopf/graphs1090](https://github.com/wiedehopf/graphs1090) - Graphs for readsb / dump1090-fa / dump1090 (based on dump1090-tools by mutability)
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc
 - [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade) - 
@@ -2753,11 +2769,12 @@
 
 ## TypeScript 
 
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing, prompt playground, datasets, LLM evaluations -- 🍊YC W23 🤖 integrate via Typescript, Python / Decorato
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [yorch/ovh-availability-checker](https://github.com/yorch/ovh-availability-checker) - Check if an OVH / Kimsufi / SoYouStart server is on stock or not
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
