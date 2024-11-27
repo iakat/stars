@@ -319,7 +319,7 @@
 - [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using one set of monitors, mouse and keyboard
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [wpbrown/oakproxy](https://github.com/wpbrown/oakproxy) - An open source cloud identity-aware proxy for OpenID Connect and OAuth 2
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and v2fly core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
 - [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 - [DanielKami/PasiveRadar2](https://github.com/DanielKami/PasiveRadar2) - 
 - [MirrorNetworking/Mirror](https://github.com/MirrorNetworking/Mirror) - #1 Open Source Unity Networking Library
@@ -1152,7 +1152,7 @@
 - [influxdata/wirey](https://github.com/influxdata/wirey) - Manage local wireguard interfaces in a distributed system
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [hoeghh/k8s-minecraft-operator](https://github.com/hoeghh/k8s-minecraft-operator) - A Kubernetes operator for minecraft
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The database for modern applications. Common use cases: knowledge graphs for AI, fraud detection, personalization, and search. Built and maintained by @HypermodeInc.
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [gphotosuploader/gphotos-uploader-cli](https://github.com/gphotosuploader/gphotos-uploader-cli) - Command line tool to mass upload media folders to your google photos account(s) (Mac OS / Linux)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -1313,7 +1313,7 @@
 - [onthegomap/planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast
 - [protomaps/basemaps](https://github.com/protomaps/basemaps) - Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more
 - [iipc/warc2html](https://github.com/iipc/warc2html) - Converts WARC files to static HTML
-- [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant low-code DATA API platform. Connect any database, run anywhere. Build applications faster.
+- [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - 30x faster application development with Instant low-code DATA API platform. Connect any database, run anywhere. Power your GENAI application function calls
 - [Hafthor/zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting json to/from zip-separated-values
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [rcombs/PieSpy](https://github.com/rcombs/PieSpy) - PieSpy, but live and animated
@@ -1715,7 +1715,7 @@
 - [nix-community/dns.nix](https://github.com/nix-community/dns.nix) - A Nix DSL for DNS zone files [maintainers=@raitobezarius @kirelagin @Tom-Hubrecht]
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix
-- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS container
+- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS container and devShells collection
 - [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 - [arnarg/nixidy](https://github.com/arnarg/nixidy) - Kubernetes GitOps with nix and Argo CD.
 - [numtide/systemd-vaultd](https://github.com/numtide/systemd-vaultd) - Provide access to vault secrets to systemd services
@@ -1987,7 +1987,6 @@
 - [wiedehopf/ais2adsb](https://github.com/wiedehopf/ais2adsb) - Simple script to convert AIS NMEA to ADSB basestation format. Main purpose is to plot SAR helicopters in ADSB plotting software like VRS.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [ArchiveTeam/urls-sources](https://github.com/ArchiveTeam/urls-sources) - Sources for urls-grab.
-- [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin]
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
@@ -2492,7 +2491,7 @@
 - [coala/documentation](https://github.com/coala/documentation) - The official documentation for coala
 - [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask
 - [pmsosa/duckhunt](https://github.com/pmsosa/duckhunt) - :dart: Prevent RubberDucky (or other keystroke injection) attacks
-- [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
+- [shobrook/rebound](https://github.com/shobrook/rebound) - Instantly load StackOverflow results in your terminal when an exception is thrown
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
 - [ustayready/CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
@@ -2606,12 +2605,13 @@
 
 ## Rust 
 
-- [katanemo/archgw](https://github.com/katanemo/archgw) - Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with your APIs - outside business logic. Built by 
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Bui
 - [lichuang/replited](https://github.com/lichuang/replited) - Replicate SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)
 - [edera-dev/krata](https://github.com/edera-dev/krata) - krata is a Xen control plane in Rust.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [edera-dev/hyperbench](https://github.com/edera-dev/hyperbench) - Benchmark for hypervisor/sandboxing overhead
+- [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [terhechte/postsack](https://github.com/terhechte/postsack) - Visually cluster your emails by sender, domain, and more to identify waste
 - [joelparkerhenderson/sha256-sentence](https://github.com/joelparkerhenderson/sha256-sentence) - SHA256 sentence: discover a SHA256 checksum that matches a sentence's description of hex digit words.
 - [FyraLabs/chisel-operator](https://github.com/FyraLabs/chisel-operator) - Kubernetes Operator for Chisel
@@ -2940,7 +2940,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an Isomorphic Full-Stack Framework for Creating and Editing Spreadsheets, Docs, and Slides Across Web and Server
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an isomorphic full-stack framework for creating and editing spreadsheets, docs, and slides across client and server.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -3035,7 +3035,7 @@
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
 - [ottomated/CrewLink-server](https://github.com/ottomated/CrewLink-server) - Voice Relay server for CrewLink.
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
