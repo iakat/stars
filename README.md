@@ -63,6 +63,7 @@
 - [Pony](#pony)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -119,7 +120,7 @@
 - [NICMx/Jool](https://github.com/NICMx/Jool) - SIIT and NAT64 for Linux
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
 - [jwerle/b64.c](https://github.com/jwerle/b64.c) - Base64 encode/decode
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, suppport various L7 protocols like HTTP/Redis/MySQL
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 - [RocketGod-git/flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - Frequency and preset adjustable subghz radio frequency jammer for Flipper Zero
 - [ArchiveTeam/wget-lua](https://github.com/ArchiveTeam/wget-lua) - Wget-AT is a modern Wget with Lua hooks, Zstandard (+dictionary) WARC compression and URL-agnostic deduplication.
 - [gkostka/lwext4](https://github.com/gkostka/lwext4) - ext2/ext3/ext4 filesystem library for microcontrollers
@@ -731,6 +732,7 @@
 - [filipkroca/revgeo](https://github.com/filipkroca/revgeo) - Package revgeo provides a reverse geocoding capability. Latitude and longitude to ISO country code.
 - [bradfitz/latlong](https://github.com/bradfitz/latlong) - The latlong package maps from a latitude and longitude to a timezone.
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+- [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.
 - [realyixuan/gsubpy](https://github.com/realyixuan/gsubpy) - An interpreter of subset of Python in Go
 - [giantswarm/etcd-backup-operator](https://github.com/giantswarm/etcd-backup-operator) - Creates etcd backups and uploads them to AWS S3
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
@@ -865,7 +867,7 @@
 - [NVIDIA/kubevirt-gpu-device-plugin](https://github.com/NVIDIA/kubevirt-gpu-device-plugin) - NVIDIA k8s device plugin for Kubevirt
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: An easier way to compare hashes /fingerprints, when dealing human weak link :link: :tada:
 - [kubernetes/metrics](https://github.com/kubernetes/metrics) - Kubernetes metrics-related API types and clients
 - [banzaicloud/nodepool-labels-operator](https://github.com/banzaicloud/nodepool-labels-operator) - Nodepool Labels operator for Kubernetes
@@ -971,7 +973,7 @@
 - [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [CentaurusInfra/arktos](https://github.com/CentaurusInfra/arktos) - Arktos for large-scale cloud platform
-- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
+- [dragonflyoss/dragonfly-archived](https://github.com/dragonflyoss/dragonfly-archived) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 - [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone) - CSI driver for rclone
 - [xcnt/kubernetes-update-manager](https://github.com/xcnt/kubernetes-update-manager) - A manager to update deployments with migration jobs in Kubernetes.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
@@ -1284,6 +1286,7 @@
 - [joostvdg/joostvdg.github.io](https://github.com/joostvdg/joostvdg.github.io) - Joost van der Griendt's GitHub Pages
 - [ContainerSolutions/ws-k8s-foundation-sample-app](https://github.com/ContainerSolutions/ws-k8s-foundation-sample-app) - 
 - [ContainerSolutions/ServerlessDaysAmsterdam](https://github.com/ContainerSolutions/ServerlessDaysAmsterdam) - ServerlessDays London Website
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
 - [mattiasgeniar/the-infinite-file-download](https://github.com/mattiasgeniar/the-infinite-file-download) - A PHP script that sends binary data to a browser. Non-stop.
 
@@ -1439,7 +1442,7 @@
 - [jawerty/myAlgorithm](https://github.com/jawerty/myAlgorithm) - A self hosted recommendation feed generated from your browsing habits
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser. Sponsored by https://cloudash.dev
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/hello](https://github.com/vasanthv/hello) - Group video call for the web. No signups. No downloads.
 - [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
 - [elpatronaco/pccomponentes-buy-bot](https://github.com/elpatronaco/pccomponentes-buy-bot) - A script made to buy any out-of-stock product off spanish stores
 - [juvian/discord-image-dupe](https://github.com/juvian/discord-image-dupe) - Bot that detects image duplicates posted in a server
@@ -1544,7 +1547,6 @@
 - [tholman/office-simulator](https://github.com/tholman/office-simulator) - Miss the office life? You won't any more with this wonderful office slack simulator.
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [heroku/awsdetailedbilling](https://github.com/heroku/awsdetailedbilling) - A toolkit for importing AWS detailed billing reports into Redshift
-- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [TheConnMan/keymaster](https://github.com/TheConnMan/keymaster) - A Slack bot who hands out temporary AWS credentials, all through a convenient Slash command
 - [DanielRapp/doppler](https://github.com/DanielRapp/doppler) - :wave: Motion detection using the doppler effect
 - [asvd/microlight](https://github.com/asvd/microlight) - highlights code in any programming language
@@ -1589,7 +1591,6 @@
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [PaulSec/filesharer-nodejs](https://github.com/PaulSec/filesharer-nodejs) - File sharer based on Node.js using AES encryption for your files
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
-- [ircanywhere/ircanywhere](https://github.com/ircanywhere/ircanywhere) - IRCAnywhere web based multi-user IRC bouncer built for teams
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 
 ## Jinja 
@@ -1621,7 +1622,6 @@
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [open-space-collective/open-space-toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications.
 - [IQTLabs/SkyScan](https://github.com/IQTLabs/SkyScan) - Automatically photograph planes that fly by!
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
@@ -1643,6 +1643,7 @@
 
 ## Kotlin 
 
+- [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [simondankelmann/SubMarine](https://github.com/simondankelmann/SubMarine) - 
@@ -1716,6 +1717,7 @@
 
 ## Nix 
 
+- [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [nix-community/dns.nix](https://github.com/nix-community/dns.nix) - A Nix DSL for DNS zone files [maintainers=@raitobezarius @kirelagin @Tom-Hubrecht]
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix
@@ -1742,7 +1744,6 @@
 
 - [colloquy/colloquy](https://github.com/colloquy/colloquy) - Colloquy is an advanced IRC, SILC & ICB client for macOS and iOS! Latest Mac builds: https://github.com/colloquy/colloquy/releases
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
-- [mxswd/dump1090-mac-app](https://github.com/mxswd/dump1090-mac-app) - A Dump1090 BEAST Server macOS App
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [mdonoughe/neko-mac](https://github.com/mdonoughe/neko-mac) - Oneko in Cocoa (Neko for Mac OS X)
 - [routerkeygen/routerkeygenPC](https://github.com/routerkeygen/routerkeygenPC) - Qt Port for Linux, Mac OSX and Windows
@@ -2115,6 +2116,7 @@
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [GFW-knocker/gfw_resist_tls_proxy](https://github.com/GFW-knocker/gfw_resist_tls_proxy) - knock up GFW sni detection in tls client hello
 - [jasmcaus/caer](https://github.com/jasmcaus/caer) - High-performance Vision library in Python. Scale your research, not boilerplate.
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [ARPSyndicate/puncia](https://github.com/ARPSyndicate/puncia) - The Panthera(P.)uncia of Cybersecurity - Official CLI utility for Subdomain Center & Exploit Observer.
 - [piqueserver/piqueserver](https://github.com/piqueserver/piqueserver) - An Ace of Spades 0.75 server based on PySnip.
@@ -2212,7 +2214,6 @@
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
 - [claws/reverse-geocoder](https://github.com/claws/reverse-geocoder) - A simple reverse geocoder that resolves a location to a country
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.
 - [kadalu/kadalu](https://github.com/kadalu/kadalu) - A lightweight Persistent storage solution for Kubernetes / OpenShift / Nomad using GlusterFS in background. More information at https://kadalu.tech
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
@@ -2343,7 +2344,7 @@
 - [cloudlinux/kuberdock-platform](https://github.com/cloudlinux/kuberdock-platform) - KuberDock - is a platform that allows users to run applications using Docker container images and create SaaS / PaaS based on these applications.
 - [faisalthaheem/open-lpr](https://github.com/faisalthaheem/open-lpr) - Open Source and Free License Plate Recognition Software
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [anthonynsimon/timeflake](https://github.com/anthonynsimon/timeflake) - Timeflake is a 128-bit, roughly-ordered, URL-safe UUID.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
@@ -2363,7 +2364,6 @@
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [danielkrupinski/OneByteWallhack](https://github.com/danielkrupinski/OneByteWallhack) - CS:GO wallhack achieved by patching one byte of game memory. Written in Python 3.
 - [benwilber/boltstream](https://github.com/benwilber/boltstream) - Boltstream Live Video Streaming Website + Backend
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [scaleway/python-scaleway](https://github.com/scaleway/python-scaleway) - :snake: Python SDK to query Scaleway APIs.
@@ -2495,7 +2495,7 @@
 - [coala/documentation](https://github.com/coala/documentation) - The official documentation for coala
 - [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask
 - [pmsosa/duckhunt](https://github.com/pmsosa/duckhunt) - :dart: Prevent RubberDucky (or other keystroke injection) attacks
-- [shobrook/rebound](https://github.com/shobrook/rebound) - Instantly load StackOverflow results in your terminal when an exception is thrown
+- [shobrook/rebound](https://github.com/shobrook/rebound) - Get Stack Overflow results in your terminal for any error
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
 - [ustayready/CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
@@ -2578,6 +2578,10 @@
 - [neuroradiology/InsideReCaptcha](https://github.com/neuroradiology/InsideReCaptcha) - Reverse-engineering the new “captchaless” ReCaptcha system...
 - [tjwei/AsusWebStorage](https://github.com/tjwei/AsusWebStorage) - Python API of Asus WebStorage service, and a fuse file system
 - [lahwran/skybot](https://github.com/lahwran/skybot) - [unmaintained] Fork of skybot for bot crow on irc.esper.net
+
+## Rich Text Format 
+
+- [mxswd/dump1090-mac-app](https://github.com/mxswd/dump1090-mac-app) - A Dump1090 BEAST Server macOS App
 
 ## Ruby 
 
@@ -2721,6 +2725,7 @@
 
 ## Shell 
 
+- [izabera/pseudo3d](https://github.com/izabera/pseudo3d) - a raycaster in bash
 - [gretel/reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server.
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
@@ -3075,7 +3080,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [pritunl/pritunl-zero](https://github.com/pritunl/pritunl-zero) - Zero trust system
