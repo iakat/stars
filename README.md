@@ -111,12 +111,14 @@
 
 ## Batchfile 
 
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [brokenw1nter/VACErrorInstaFixer](https://github.com/brokenw1nter/VACErrorInstaFixer) - A very simple batch file which helps fix the Valve Anti-Cheat error message, "Disconnected by VAC: You cannot play on secured servers". Which can be caused by multiple things such as an anti-virus/mal
 
 ## C 
 
+- [CyberSaiyanIT/rh2025-ctf-badge-firmware](https://github.com/CyberSaiyanIT/rh2025-ctf-badge-firmware) - Source code of the RomHack 2025 Badge, with Capture the Flag
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS
 - [libvmi/libvmi](https://github.com/libvmi/libvmi) - The official home of the LibVMI project is at https://github.com/libvmi/libvmi.
 - [makomk/aeskeyfind](https://github.com/makomk/aeskeyfind) - Fork of aeskeyfind that knows more formats of AES key schedule
@@ -338,6 +340,7 @@
 
 ## C# # 
 
+- [tungstengmd/pizza](https://github.com/tungstengmd/pizza) - 
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [Effix/LedBadge](https://github.com/Effix/LedBadge) - Custom firmware and library for displaying imagery on a small led name badge
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
@@ -394,6 +397,7 @@
 
 ## C++ 
 
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
 - [simsong/bulk_extractor](https://github.com/simsong/bulk_extractor) - This is the development tree. Production downloads are at:
 - [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit
 - [google/mount-zip](https://github.com/google/mount-zip) - FUSE file system for ZIP archives
@@ -622,6 +626,18 @@
 
 ## Go 
 
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
+- [dtonon/ch](https://github.com/dtonon/ch) - Colored Highlighter - A fast, simple terminal tool to highlight specific words in your command output with colors
+- [bradfitz/livecore](https://github.com/bradfitz/livecore) - Linux low-pause core file dumper from an existing running process
+- [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage & backup system
+- [vdbsh/backy](https://github.com/vdbsh/backy) - tiny multiprocessing utility for file backups
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
+- [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs.
+- [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [5HT2B/heartbeat](https://github.com/5HT2B/heartbeat) - A service to keep a live heartbeat (ping) on multiple devices
 - [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book
 - [ovn-kubernetes/ovn-kubernetes](https://github.com/ovn-kubernetes/ovn-kubernetes) - A robust Kubernetes networking platform
@@ -643,7 +659,7 @@
 - [cwarden/git-add--interactive](https://github.com/cwarden/git-add--interactive) - git-add--interactive with extra features
 - [jaredallard/ingress-anubis](https://github.com/jaredallard/ingress-anubis) - Ingress anubis controller (chaining ingress-nginx)
 - [polyrabbit/etcdfs](https://github.com/polyrabbit/etcdfs) - :file_folder: Mount etcd into a local directory
-- [Foxboron/terraform-provider-openwrt](https://github.com/Foxboron/terraform-provider-openwrt) - openwrt openbao/terraform provider
+- [Foxboron/terraform-provider-openwrt](https://github.com/Foxboron/terraform-provider-openwrt) - openwrt OpenTofu/terraform provider
 - [gwatts/rootcerts](https://github.com/gwatts/rootcerts) - Root CA certificates for Go
 - [mullvad/wireguard-go](https://github.com/mullvad/wireguard-go) - 
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
@@ -1349,7 +1365,6 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
@@ -1457,6 +1472,7 @@
 
 ## JavaScript 
 
+- [5HT2B/heartbeat-pwa](https://github.com/5HT2B/heartbeat-pwa) - The heartbeat client PWA implementation
 - [markszabo/PostQ](https://github.com/markszabo/PostQ) - Webbased post-quantum messenger application
 - [dirkhh/adsb-mcp-server](https://github.com/dirkhh/adsb-mcp-server) - A Model Context Protocol (MCP) server that exposes the data of a typical ADS-B feeder instance for use from within Claude (and possibly other LLMs).
 - [jake-low/sourdough.osm.fyi](https://github.com/jake-low/sourdough.osm.fyi) - Documentation website for the Sourdough vector tile schema
@@ -1868,6 +1884,8 @@
 
 ## Others 
 
+- [lazzman/pcileech-fpga-RW1C](https://github.com/lazzman/pcileech-fpga-RW1C) - Modified version of stock pcileech for bypassing the drvscan targeted at detecting RW1C bits.
+- [dom0ng/pcileech-cardreader-RTS522A](https://github.com/dom0ng/pcileech-cardreader-RTS522A) - pcileech-fpga with SD card reader card emulation (Realtek RTS522A PCIe Card Reader)
 - [acageduser/DMA-Attack-Firmware-Customization](https://github.com/acageduser/DMA-Attack-Firmware-Customization) - This cybersecurity guide provides a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board. It is intended for educational and research purposes only.
 - [Silverr12/DMA-CFW-Guide](https://github.com/Silverr12/DMA-CFW-Guide) - Detailed Instructions on the creation of custom/modified DMA (attack) Firmware based on pcileech-fpga
 - [TixieSalander/glauca-digital-graphical-sandbox](https://github.com/TixieSalander/glauca-digital-graphical-sandbox) - just some visuals I made for Glauca.Digital community
@@ -1997,6 +2015,7 @@
 
 ## PHP 
 
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel) - A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per
 - [tommyrot/superseriousstats](https://github.com/tommyrot/superseriousstats) - superseriousstats is a fast and efficient program to create statistics out of IRC chat logs
 - [alangrainger/share-note-self-hosted-backend](https://github.com/alangrainger/share-note-self-hosted-backend) - 
@@ -2084,16 +2103,24 @@
 
 ## PowerShell 
 
+- [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
 - [Daniel-Hwang/U20-F50](https://github.com/Daniel-Hwang/U20-F50) - 飞猫U20-中兴F50极客玩法开ADB，开短信，root，装拨号等
 - [FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb) - Flipper Zero badusb payload library
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [alexfrancow/badusb_botnet](https://github.com/alexfrancow/badusb_botnet) - :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.
 - [nocomp/Flipper_Zero_Badusb_hack5_payloads](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads) - hack5 badusb payloads moded for be played with flipper zero
 - [giMini/PowerMemory](https://github.com/giMini/PowerMemory) - Exploit the credentials present in files and memory
 
 ## Python 
 
+- [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
+- [horia141/thrive](https://github.com/horia141/thrive) - The Thrive goals management system
+- [joshpatten/PVE-VDIClient](https://github.com/joshpatten/PVE-VDIClient) - Proxmox based VDI client
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+- [romainrbr/immich-face-to-album](https://github.com/romainrbr/immich-face-to-album) - Tool allowing to sync Immich's user face to a specific album
+- [anonion0/nsec3map](https://github.com/anonion0/nsec3map) - a tool to enumerate the resource records of a DNS zone using its DNSSEC NSEC or NSEC3 chain
+- [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
+- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 - [google/rekall](https://github.com/google/rekall) - Rekall Memory Forensic Framework
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [wpydcr/LLM-Kit](https://github.com/wpydcr/LLM-Kit) - 🚀WebUI integrated platform for latest LLMs | 各大语言模型的全流程工具 WebUI 整合包。支持主流大模型API接口和开源模型。支持知识库，数据库，角色扮演，mj文生图，LoRA和全参数微调，数据集制作，live2d等全流程应用工具
@@ -2527,6 +2554,7 @@
 - [scaleway/python-scaleway](https://github.com/scaleway/python-scaleway) - :snake: Python SDK to query Scaleway APIs.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [jrosdahl/miniircd](https://github.com/jrosdahl/miniircd) - A very simple Internet Relay Chat (IRC) server
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [aio-libs/aiodns](https://github.com/aio-libs/aiodns) - Simple DNS resolver for asyncio
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 The easiest way to parse and modify URLs in Python.
@@ -2743,6 +2771,7 @@
 
 ## Ruby 
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [ShiftaDeband/wayback-machine-downloader](https://github.com/ShiftaDeband/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
@@ -2772,6 +2801,10 @@
 
 ## Rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
+- [eta077/astro-rs](https://github.com/eta077/astro-rs) - Astronomy utils written in Rust
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
 - [microsoft/avml](https://github.com/microsoft/avml) - AVML - Acquire Volatile Memory for Linux
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -2800,7 +2833,7 @@
 - [aramperes/onetun](https://github.com/aramperes/onetun) - User space WireGuard port-forward in Rust
 - [MystenLabs/ed25519-unsafe-libs](https://github.com/MystenLabs/ed25519-unsafe-libs) - List of unsafe ed25519 signature libs
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and 
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from Open
 - [lichuang/replited](https://github.com/lichuang/replited) - Replicate SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)
 - [edera-dev/krata](https://github.com/edera-dev/krata) - krata is a Xen control plane in Rust.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -2912,6 +2945,8 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [RNViththagan/Samba-AD-DC-Setup](https://github.com/RNViththagan/Samba-AD-DC-Setup) - A step-by-step guide to setting up Samba as an Active Directory Domain Controller (AD DC) for centralized authentication and profile management across Windows and Linux clients. Includes DNS configura
 - [olastor/clevis-pin-fido2](https://github.com/olastor/clevis-pin-fido2) - Plugin for clevis to support encryption/decryption with fido2 tokens using the hmac-secret extension.
 - [trixmoe/versioned-patch-system](https://github.com/trixmoe/versioned-patch-system) - Maintain un-upstreamable patches on top of an ever-changing repo
 - [trixmoe/openwrt-lom](https://github.com/trixmoe/openwrt-lom) - Access your LOM (BMC) network from anywhere, via VPN on an OpenWrt device
@@ -3081,6 +3116,7 @@
 
 ## Smarty 
 
+- [bsctl/kubelived](https://github.com/bsctl/kubelived) - keepalived for kubernetes control plane
 - [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [aenix-io/kubernetes-in-kubernetes](https://github.com/aenix-io/kubernetes-in-kubernetes) - Deploy Kubernetes in Kubernetes using Helm
@@ -3130,6 +3166,9 @@
 
 ## TypeScript 
 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [AFK-surf/open-agent](https://github.com/AFK-surf/open-agent) - Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [internxt/meet-web](https://github.com/internxt/meet-web) - 
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
@@ -3214,7 +3253,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [ADSB-One/site](https://github.com/ADSB-One/site) - ADSB One site
 - [usimd/pi-gen-action](https://github.com/usimd/pi-gen-action) - Action to build Raspberry Pi images using official pi-gen tool
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -3308,6 +3347,9 @@
 
 ## Verilog 
 
+- [yxlnqs/diviner-full-emu-v3](https://github.com/yxlnqs/diviner-full-emu-v3) - DMA Firmware
+- [dom0ng/pcileech-modem](https://github.com/dom0ng/pcileech-modem) - pcileech-fpga with modem card emulation (Lucent PCI-SV92EX Soft Modem)
+- [ekknod/pcileech-multimedia](https://github.com/ekknod/pcileech-multimedia) - spartan6 blackmagic
 - [dom0ng/pcileech-audio](https://github.com/dom0ng/pcileech-audio) - pcileech-fpga with audio card emulation (Creative SB Recon3D PCIe Audio Controller)
 - [dzul221/pcileech-family](https://github.com/dzul221/pcileech-family) - If you need help flashing it or creating it join my discord server https://discord.gg/BckECzDy37
 - [ufrisk/pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) - FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software
@@ -3325,7 +3367,7 @@
 
 ## Vue 
 
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Self-hosted Spotify downloader
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download your Spotify playlists and songs along with album art and metadata in a self-hosted way via Docker
 - [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) - 🥝 Next generation of the Kiwi IRC web client
 - [Jont828/cluster-api-visualizer](https://github.com/Jont828/cluster-api-visualizer) - Multicluster resource visualization tool for Cluster API
 - [QianheYu/headscale-panel-ui](https://github.com/QianheYu/headscale-panel-ui) - Front-end implementation of headscale-panel with cross-domain support and front- and back-end separation
