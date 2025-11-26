@@ -108,6 +108,7 @@
 
 ## Assembly 
 
+- [lupyuen/pinetime-rust-mynewt](https://github.com/lupyuen/pinetime-rust-mynewt) - PineTime Smart Watch firmware based on Rust and Apache Mynewt OS
 - [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go
 - [kaniini/libucontext](https://github.com/kaniini/libucontext) - ucontext implementation featuring glibc-compatible ABI
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -122,6 +123,14 @@
 
 ## C 
 
+- [tat3r/tdfiglet](https://github.com/tat3r/tdfiglet) - A figlet for TheDraw's TDF ANSI fonts
+- [Lemme-lab/Project-Airframe](https://github.com/Lemme-lab/Project-Airframe) - A fully custom open source Smartwatch with all the features you are used in normal smartwatches
+- [owntracks/recorder](https://github.com/owntracks/recorder) - Store and access data published by OwnTracks apps
+- [jakkra/ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
+- [joaquimorg/PineTime40](https://github.com/joaquimorg/PineTime40) - PineTime with nRF52840 replacement board
+- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
+- [pipe01/InfiniEmu](https://github.com/pipe01/InfiniEmu) - Emulates an ARM Cortex M4 CPU capable of running InfiniTime
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
 - [trixmoe/u-boot](https://github.com/trixmoe/u-boot) - "Das U-Boot" Source Tree
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [gfwilliams/pebble-banglejs2](https://github.com/gfwilliams/pebble-banglejs2) - Port of PebbleOS to run on Bangle.js2 - currently nonfunctional
@@ -264,7 +273,6 @@
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [brainhub/SHA3IUF](https://github.com/brainhub/SHA3IUF) - C implementation of the SHA-3 and Keccak with Init/Update/Finalize hashing API (NIST FIPS 202/Etherium)
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [msantos/libproxyproto](https://github.com/msantos/libproxyproto) - Proxy protocol v1 and v2 support via an LD_PRELOAD library
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
@@ -355,6 +363,7 @@
 
 ## C# # 
 
+- [therobbiedavis/Listenarr](https://github.com/therobbiedavis/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [tungstengmd/pizza](https://github.com/tungstengmd/pizza) - 
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -446,14 +455,14 @@
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for Stream Processing, Observability, Analytics and AI/ML.   🔥  50 GB/s throughput. Zero replication. Zero lag.
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for stream processing, observability, analytics and AI/ML
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [peterheinrich/InternetOverSpaghetti](https://github.com/peterheinrich/InternetOverSpaghetti) - Transmitting IP packages over a pair of spaghetti thus demonstrating how media independent IP really is.
 - [subsurface/subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
-- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+- [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
 - [30hours/blah2](https://github.com/30hours/blah2) - A real-time passive radar
 - [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) - Report and exploit of CVE-2023-36427
@@ -589,6 +598,7 @@
 
 ## Crystal 
 
+- [cloudnative-cr/crystal-kubernetes-client](https://github.com/cloudnative-cr/crystal-kubernetes-client) - kubernetes client written in crystal lang
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## D 
@@ -648,6 +658,9 @@
 
 ## Go 
 
+- [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) - 
+- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE)
+- [Elara6331/itd](https://github.com/Elara6331/itd) - Linux companion daemon for the InfiniTime smartwatch firmware
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [FiloSottile/claude-sandbox](https://github.com/FiloSottile/claude-sandbox) - 
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
@@ -875,6 +888,7 @@
 - [derwiki/go-chatgpt](https://github.com/derwiki/go-chatgpt) - A Go CLI program sends a prompt to the ChatGPT API for several models, prints the generated response for each, and then sends all the responses to chatgpt-3.5-turbo to ask which is best.
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [path-network/go-mmproxy](https://github.com/path-network/go-mmproxy) - Golang implementation of MMProxy
 - [haveachin/infrared](https://github.com/haveachin/infrared) - An ultra lightweight minecraft reverse proxy and idle placeholder
 - [pires/go-proxyproto](https://github.com/pires/go-proxyproto) - A Go library implementation of the PROXY protocol, versions 1 and 2.
@@ -1158,7 +1172,7 @@
 - [solo-io/autopilot](https://github.com/solo-io/autopilot) - The Service Mesh SDK
 - [gerald1248/k8s-network-policy-viewer](https://github.com/gerald1248/k8s-network-policy-viewer) - Visualizes the pod network
 - [bells17/common-network-policy-operator](https://github.com/bells17/common-network-policy-operator) - Common Network Policy Operator is auto create common network policy to all namespaces.
-- [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open-source components of Jetstack Secure.
+- [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open-source components of CyberArk Certificate Manager for Kubernetes Discovery.
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [larrabee/s3sync](https://github.com/larrabee/s3sync) - Really fast sync tool for S3
@@ -1360,7 +1374,7 @@
 - [galovics/free-kubernetes-oracle-cloud-terraform](https://github.com/galovics/free-kubernetes-oracle-cloud-terraform) - 
 - [wandb/server](https://github.com/wandb/server) - W&B Server is the self hosted version of Weights & Biases
 - [garutilorenzo/k3s-oci-cluster](https://github.com/garutilorenzo/k3s-oci-cluster) - Deploy a Kubernetes cluster for free, using k3s and Oracle always free resources
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
+- [mysticaltech/terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
 - [gruberdev/tf-free](https://github.com/gruberdev/tf-free) - This repository enables the creation of cloud-native resources across all major cloud providers, utilizing only free-tier resources, provisioning them using Terraform.
 - [terraform-google-modules/terraform-google-project-factory](https://github.com/terraform-google-modules/terraform-google-project-factory) - Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs
 - [semgrep/semgrep-rules](https://github.com/semgrep/semgrep-rules) - Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.
@@ -1467,6 +1481,7 @@
 
 ## Java 
 
+- [renyuneyun/Easer](https://github.com/renyuneyun/Easer) - User-defined explicit automation for Android
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name "Reitti" comes from Finnish, meaning "ro
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
@@ -1525,6 +1540,9 @@
 
 ## JavaScript 
 
+- [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
+- [memrye/plectrm](https://github.com/memrye/plectrm) - Open-Source ASCII Tablature Editor
+- [Sanket9225/UsenetStreamer](https://github.com/Sanket9225/UsenetStreamer) - UsenetStreamer lets you stream any NZB files directly into Stremio. Bring your own sources, connect Prowlarr or NZBHydra, add indexers via built-in Newznab support, or link your Easynews account using
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [jeffmer/WatchApps](https://github.com/jeffmer/WatchApps) - Support to run Bangle/Espruino Apps on P8, ROCK and Magic3 Smart Watches
 - [ychama/Pulse-Fitness-Device](https://github.com/ychama/Pulse-Fitness-Device) - REJOY Pulse project
@@ -1537,7 +1555,6 @@
 - [rinormaloku/k8s-mastery](https://github.com/rinormaloku/k8s-mastery) - Repository for the article "Learn Kubernetes in Under 3 Hours"
 - [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - [5HT2B/heartbeat-pwa](https://github.com/5HT2B/heartbeat-pwa) - The heartbeat client PWA implementation
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [markszabo/PostQ](https://github.com/markszabo/PostQ) - Webbased post-quantum messenger application
 - [dirkhh/adsb-mcp-server](https://github.com/dirkhh/adsb-mcp-server) - A Model Context Protocol (MCP) server that exposes the data of a typical ADS-B feeder instance for use from within Claude (and possibly other LLMs).
 - [jake-low/sourdough.osm.fyi](https://github.com/jake-low/sourdough.osm.fyi) - Documentation website for the Sourdough vector tile schema
@@ -1558,7 +1575,6 @@
 - [ldidry/lutim](https://github.com/ldidry/lutim) - Let's Upload That Image ! Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lutim
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
 - [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear) - A web client for WeeChat
 - [reminiflux/reminiflux](https://github.com/reminiflux/reminiflux) - Alternative web frontend for miniflux. http://reminiflux.github.io
@@ -1624,7 +1640,7 @@
 - [jawerty/myAlgorithm](https://github.com/jawerty/myAlgorithm) - A self hosted recommendation feed generated from your browsing habits
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser. Sponsored by https://cloudash.dev
-- [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
+- [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
 - [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
 - [elpatronaco/pccomponentes-buy-bot](https://github.com/elpatronaco/pccomponentes-buy-bot) - A script made to buy any out-of-stock product off spanish stores
 - [juvian/discord-image-dupe](https://github.com/juvian/discord-image-dupe) - Bot that detects image duplicates posted in a server
@@ -1818,6 +1834,9 @@
 
 ## Kotlin 
 
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
+- [skjaere/DebriDav](https://github.com/skjaere/DebriDav) - An all-in-one solution for bridging the gap between the arrs and debrid.
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [simondankelmann/SubMarine](https://github.com/simondankelmann/SubMarine) - 
@@ -1896,6 +1915,8 @@
 
 ## Nix 
 
+- [chayleaf/notnft](https://github.com/chayleaf/notnft) - Nix DSL for nftables
+- [aprilthepink/nur-repo](https://github.com/aprilthepink/nur-repo) - Aprils NUR repo
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) - Fuzzy search through nixpkgs.
 - [plmercereau/nixos-pi-zero-2](https://github.com/plmercereau/nixos-pi-zero-2) - 
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
@@ -1953,6 +1974,10 @@
 
 ## Others 
 
+- [fmurodov/ESPTimeDisplay](https://github.com/fmurodov/ESPTimeDisplay) - ESPHome LED Matrix Clock & Weather Display
+- [kilmu1337/DMA-FIRMWARE](https://github.com/kilmu1337/DMA-FIRMWARE) - Using the method of shadow cfg to make your own firmware for 1:1 configuration space.
+- [joylarkin/AI-Coding-Landscape](https://github.com/joylarkin/AI-Coding-Landscape) - The 2025 AI Coding Landscape - AI coding models, agents, CLIs, IDEs, AI app builders, open source tooling, benchmarks
+- [sethitow/awesome-pinetime](https://github.com/sethitow/awesome-pinetime) - List of PineTime projects.
 - [jimilinuxguy/flipperzero-touchtunes](https://github.com/jimilinuxguy/flipperzero-touchtunes) - 
 - [adafruit/awesome-feather](https://github.com/adafruit/awesome-feather) - A curated list of awesome Feather form factor boards, guides, videos, libraries, software and resources.
 - [atc1441/DaFlasherFiles](https://github.com/atc1441/DaFlasherFiles) - Additional files for the DaFlasher App and the ATCwatch Firmware for the P8 Smartwatch
@@ -2094,6 +2119,7 @@
 
 ## PHP 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
@@ -2160,6 +2186,7 @@
 
 ## Perl 
 
+- [Dwarf1er/perlfuck](https://github.com/Dwarf1er/perlfuck) - PerlFuck ({/.=~+}) using only 9 characters to write and execute Perl code
 - [hjmangalam/parsyncfp](https://github.com/hjmangalam/parsyncfp) - follow-on to parsync (parallel rsync) with better startup perf
 - [MaxKellermann/ferm](https://github.com/MaxKellermann/ferm) - ferm is a frontend for iptables
 - [mnalis/ssh-line-mode](https://github.com/mnalis/ssh-line-mode) - Like a telnet line-by-line mode, but for ssh client (for high-latency links)
@@ -2194,7 +2221,16 @@
 
 ## Python 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
+- [matvik22000/rns-over-icmp](https://github.com/matvik22000/rns-over-icmp) - 
+- [kc1awv/lxst_phone](https://github.com/kc1awv/lxst_phone) - 
+- [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
+- [Veykril/base65536-python](https://github.com/Veykril/base65536-python) - base65536 implementation written in python
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
+- [eventphone/python-mitel](https://github.com/eventphone/python-mitel) - Mitel SIP-DECT OMM (Mitel Open Mobility Manager) API Python SDK
+- [znuh/re-DECTed](https://github.com/znuh/re-DECTed) - tools for playing with DECT
+- [mm/heartbridge](https://github.com/mm/heartbridge) - Using the iOS Shortcuts app and Python together to export iOS Health data to a JSON/CSV file.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [smonux/chgpt-mcp-bridge](https://github.com/smonux/chgpt-mcp-bridge) - A lightweight OAuth-protected proxy to securely expose Model Context Protocol (MCP) tools to ChatGPT.
 - [wootfish/diffseek](https://github.com/wootfish/diffseek) - CLI tool that helps you transcribe long strings from one machine to another by hand.
 - [TamtamHero/fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl) - A simple systemd service to better control Framework Laptop's fan(s)
@@ -2355,7 +2391,7 @@
 - [vingerha/ha_adsb_lol](https://github.com/vingerha/ha_adsb_lol) - Home Assistant Integration with adsb.lol
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [birdnet-team/BirdNET-Analyzer](https://github.com/birdnet-team/BirdNET-Analyzer) - BirdNET analyzer for scientific audio data processing.
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime
 - [sopel-irc/sopel](https://github.com/sopel-irc/sopel) - :robot::speech_balloon: An easy-to-use and highly extensible IRC Bot framework. Formerly Willie.
 - [bitbot-irc/bitbot](https://github.com/bitbot-irc/bitbot) - https://bitbot.dev | Python3 event-driven modular IRCv3 bot 🤖
 - [knrd1/chatgpt](https://github.com/knrd1/chatgpt) - ChatGPT IRC bot
@@ -2394,10 +2430,10 @@
 - [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
 - [MIDORIBIN/langchain-gpt4free](https://github.com/MIDORIBIN/langchain-gpt4free) - LangChain x gpt4free
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-- [K3YOMI/Wall-of-Flippers](https://github.com/K3YOMI/Wall-of-Flippers) - A simple and easy way to find Flipper Zero Devices and Bluetooth Low Energy Based Attacks
+- [k3yomi/Wall-of-Flippers](https://github.com/k3yomi/Wall-of-Flippers) - A simple and easy way to find Flipper Zero Devices and Bluetooth Low Energy Based Attacks
 - [KasperskyLab/triangle_check](https://github.com/KasperskyLab/triangle_check) - 
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
-- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
+- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [Jxck-S/airline-logo-scraper](https://github.com/Jxck-S/airline-logo-scraper) - Airline Logo Scraper
 - [artak-kirakosyan/airline_iata_icao_codes](https://github.com/artak-kirakosyan/airline_iata_icao_codes) - Python script that parses airline IATA and ICAO codes from a website and writes a JSON file
 - [allenporter/flux-local](https://github.com/allenporter/flux-local) - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.
@@ -2419,7 +2455,7 @@
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [chickens2/pony-comic-generator](https://github.com/chickens2/pony-comic-generator) - automatically makes comics from chat logs in your clipboard
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
@@ -2451,7 +2487,7 @@
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [ma1co/Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) - Reverse Engineering Sony Digital Cameras
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
 - [system-storage-manager/ssm](https://github.com/system-storage-manager/ssm) - A single tool to manage your storage.
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
@@ -2582,7 +2618,7 @@
 - [ffreemt/deepl-tr-async](https://github.com/ffreemt/deepl-tr-async) - deepl translate via pyppeteer
 - [KnugiHK/WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter) - A cross-platform tool for parsing WhatsApp chat databases from Android and iOS/iPadOS backups. Supports Android .crypt12, .crypt14, .crypt15, and the latest database formats. Outputs chat history in r
 - [jfarley248/iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) - Python 3 Script to parse out iTunes backups
-- [avibrazil/iOSbackup](https://github.com/avibrazil/iOSbackup) - A Python 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and Windows. Compatible with iOS 14. Class works on Linux too.
+- [avibrazil/iOSbackup](https://github.com/avibrazil/iOSbackup) - A Python 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and Windows. Compatible with iOS 26. Class works on Linux too.
 - [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted local iOS backup on Windows or MacOS
 - [GuillaumeArp/Jedha_F1_Project](https://github.com/GuillaumeArp/Jedha_F1_Project) - Dashboard showing dataviz about F1 data, and best pit strategy predictor
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
@@ -2880,8 +2916,9 @@
 
 ## Ruby 
 
+- [coderobe/base65536-ruby](https://github.com/coderobe/base65536-ruby) - Unicode's answer to Base64, in Ruby
 - [whitequark/irclogger](https://github.com/whitequark/irclogger) - Simple and good-looking IRC log viewer. Logger is included. No strings are attached.
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [ShiftaDeband/wayback-machine-downloader](https://github.com/ShiftaDeband/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
@@ -2912,6 +2949,11 @@
 
 ## Rust 
 
+- [felixpalmer/a5-rs](https://github.com/felixpalmer/a5-rs) - Pentagonal geospatial indexing system DGGS
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+- [boreq/clacks](https://github.com/boreq/clacks) - GNU Terry Pratchett
+- [networkException/oxidetracks](https://github.com/networkException/oxidetracks) - An opinionated reimplementation of owntracks/recorder
+- [pka/owntrack-rs](https://github.com/pka/owntrack-rs) - OwnTracks compatible GPS tracks recorder and viewer
 - [zopieux/ircjournal](https://github.com/zopieux/ircjournal) - A lightweight, fast, standalone IRC log viewer for the web, with real-time log ingestion.
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -2962,7 +3004,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [maybenot-io/maybenot](https://github.com/maybenot-io/maybenot) - a framework for traffic analysis defenses
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
 - [coconut-svsm/svsm](https://github.com/coconut-svsm/svsm) - COCONUT-SVSM
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [FiloSottile/disk-spinner](https://github.com/FiloSottile/disk-spinner) - A burn-in tool for spinning rust HDDs
@@ -3087,6 +3129,7 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [StarGate01/p8b-infinitime](https://github.com/StarGate01/p8b-infinitime) - Run InfiniTime & Bootloader on the P8 smartwatch
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [RNViththagan/Samba-AD-DC-Setup](https://github.com/RNViththagan/Samba-AD-DC-Setup) - A step-by-step guide to setting up Samba as an Active Directory Domain Controller (AD DC) for centralized authentication and profile management across Windows and Linux clients. Includes DNS configura
 - [olastor/clevis-pin-fido2](https://github.com/olastor/clevis-pin-fido2) - Plugin for clevis to support encryption/decryption with fido2 tokens using the hmac-secret extension.
 - [trixmoe/versioned-patch-system](https://github.com/trixmoe/versioned-patch-system) - Maintain un-upstreamable patches on top of an ever-changing repo
@@ -3278,11 +3321,14 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
 
 ## Swift 
 
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+- [InfiniTimeOrg/InfiniLink](https://github.com/InfiniTimeOrg/InfiniLink) - The official iOS companion app for InfiniTime
 - [JunyuKuang/HeartRate](https://github.com/JunyuKuang/HeartRate) - Use Apple Watch sensor to monitor heart rates.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -3310,6 +3356,9 @@
 
 ## TypeScript 
 
+- [wiseman/aegis-sim](https://github.com/wiseman/aegis-sim) - Simulation of being in charge of air defense on an AEGIS cruiser
+- [marshift/dune](https://github.com/marshift/dune) - templating engine and static site generator using KDL
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [coder/blink](https://github.com/coder/blink) - Blink is a tool for building and sharing AI agents.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - cmux lets you run Claude Code, Codex CLI, Amp, Gemini CLI, Cursor CLI, Opencode, and other coding agent CLIs in parallel across multiple tasks
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the futur
@@ -3343,7 +3392,7 @@
 - [AFK-surf/open-agent](https://github.com/AFK-surf/open-agent) - Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [internxt/meet-web](https://github.com/internxt/meet-web) - 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - A free open source IT asset / Equipment / management and scheduling system.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
@@ -3358,7 +3407,7 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [alangrainger/share-note](https://github.com/alangrainger/share-note) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key.
 - [mhoran/weechatRN](https://github.com/mhoran/weechatRN) - WeeChat relay client for mobile using WebSockets
-- [linagora/twake-drive](https://github.com/linagora/twake-drive) - The open-source alternative to Google Drive.
+- [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
@@ -3517,6 +3566,8 @@
 
 ## Verilog 
 
+- [dom0ng/pcileech-wifi-v2](https://github.com/dom0ng/pcileech-wifi-v2) - pcileech-fpga with wireless card emulation (D-Link DWA-556 Xtreme N PCIe Desktop Adapter)
+- [bkerler/LibreSDR_UHD_B220_Mini_FPGA](https://github.com/bkerler/LibreSDR_UHD_B220_Mini_FPGA) - Updated FPGA source code and binaries for UHD B220 Clone with XC7A200T+AD9361
 - [Shocka-Zulu/Soundblaster-Emu-Fw](https://github.com/Shocka-Zulu/Soundblaster-Emu-Fw) - DMA-Nations Free Firmware
 - [yxlnqs/diviner-full-emu-v3](https://github.com/yxlnqs/diviner-full-emu-v3) - DMA Firmware
 - [dom0ng/pcileech-modem](https://github.com/dom0ng/pcileech-modem) - pcileech-fpga with modem card emulation (Lucent PCI-SV92EX Soft Modem)
