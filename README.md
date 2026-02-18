@@ -10,6 +10,7 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -122,6 +123,10 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [brokenw1nter/VACErrorInstaFixer](https://github.com/brokenw1nter/VACErrorInstaFixer) - A very simple batch file which helps fix the Valve Anti-Cheat error message, "Disconnected by VAC: You cannot play on secured servers". Which can be caused by multiple things such as an anti-virus/mal
+
+## Bru 
+
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -678,6 +683,7 @@
 
 ## Go 
 
+- [ashish0kumar/mufetch](https://github.com/ashish0kumar/mufetch) - neofetch-style music cli
 - [Jacob2161/addled](https://github.com/Jacob2161/addled) - An authoritative DNS lookup tool and Go library
 - [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock) - Matchlock secures AI agent workloads with a Linux-based sandbox.
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
@@ -809,7 +815,7 @@
 - [AthennaMind/opnsense-exporter](https://github.com/AthennaMind/opnsense-exporter) - OPNsense Exporter for Prometheus
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [darwin-containers/rund](https://github.com/darwin-containers/rund) - OCI Container Runtime for Darwin
-- [helixml/helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI agents with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
+- [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Swarm with Spec Coding ♾️
 - [gardener/gardener-extension-networking-cilium](https://github.com/gardener/gardener-extension-networking-cilium) - Gardener extension controller for the Cilium CNI network plugin.
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [czerwonk/ping_exporter](https://github.com/czerwonk/ping_exporter) - Prometheus exporter for ICMP echo requests using https://github.com/digineo/go-ping
@@ -885,7 +891,7 @@
 - [rystaf/mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 - [clastix/cluster-api-control-plane-provider-kamaji](https://github.com/clastix/cluster-api-control-plane-provider-kamaji) - The Kamaji Control Plane provider implementation of the Cluster Management API
@@ -1186,7 +1192,6 @@
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [kopeio/etcd-manager](https://github.com/kopeio/etcd-manager) - operator for etcd: moved to https://github.com/kubernetes-sigs/etcdadm
 - [aquasecurity/kube-query](https://github.com/aquasecurity/kube-query) - [EXPERIMENTAL] Extend osquery to report on Kubernetes
-- [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [rancher/k3c](https://github.com/rancher/k3c) - Lightweight local container engine for container development
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
@@ -1270,7 +1275,7 @@
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for multi-instance multi-tenancy
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Framework for delivering SaaS-style, namespace-isolated application instances on Kubernetes without writing custom operators.
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -1434,6 +1439,7 @@
 
 ## HTML 
 
+- [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font.
 - [markqvist/rnode-flasher](https://github.com/markqvist/rnode-flasher) - A web based firmware flasher for Reticulum / RNode_Firmware
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
@@ -2001,7 +2007,7 @@
 
 ## Nunjucks 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## OCaml 
 
@@ -2090,7 +2096,7 @@
 - [vradarserver/standing-data](https://github.com/vradarserver/standing-data) - Dumps of aviation data from Virtual Radar Server's SDM site.
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-- [nelsonjchen/gargantuan-takeout-rocket](https://github.com/nelsonjchen/gargantuan-takeout-rocket) - 🚀 (currently broken) Backup Google Takeout archives (YouTube channel and Google Photos) at 1GB/s+ to Azure Storage periodically with minimal human toil and financial cost
+- [nelsonjchen/gargantuan-takeout-rocket](https://github.com/nelsonjchen/gargantuan-takeout-rocket) - 🚀 Backup Google Takeout archives (YouTube channel and Google Photos) at 1GB/s+ to Azure Storage periodically with minimal human toil and financial cost
 - [SLKTH/rijksoverheidfonts](https://github.com/SLKTH/rijksoverheidfonts) - Fonts files used by Dutch Government (Rijksoverheid)
 - [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare v2 challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
 - [OpenSourceEBike/TSDZ2_wiki](https://github.com/OpenSourceEBike/TSDZ2_wiki) - 
@@ -2132,7 +2138,6 @@
 - [pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19) - COVID-19 Italia - Monitoraggio situazione
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
-- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [alichnewsky/pixelbook-galliumos](https://github.com/alichnewsky/pixelbook-galliumos) - Getting my new chromebook to dual boot Linux (Gallium OS)
 - [GalliumOS/galliumos-distro](https://github.com/GalliumOS/galliumos-distro) - Docs, issues, and artwork sources for GalliumOS
@@ -2284,6 +2289,7 @@
 
 ## Python 
 
+- [encode/mkdocs](https://github.com/encode/mkdocs) - 
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI) - The official API server for Exllama. OAI compatible, lightweight, and fast.
@@ -2323,7 +2329,7 @@
 - [wootfish/diffseek](https://github.com/wootfish/diffseek) - CLI tool that helps you transcribe long strings from one machine to another by hand.
 - [TamtamHero/fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl) - A simple systemd service to better control Framework Laptop's fan(s)
 - [makerdiary/nrf52840-mdk-usb-dongle](https://github.com/makerdiary/nrf52840-mdk-usb-dongle) - Open-Source, Small and Low-Cost Wireless Dongle based on the nRF52840 Multiprotocol SoC, featuring Bluetooth Low Energy, Bluetooth mesh, Thread, Zigbee and 2.4 GHz, and Multi-Tool Device for IoT
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -2408,7 +2414,7 @@
 - [selkies-project/selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 - [sunghome/streamlink_optionalkey](https://github.com/sunghome/streamlink_optionalkey) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [rsgrt/l3dl-re](https://github.com/rsgrt/l3dl-re) - L3DL-REscripted widevine decryptor + downloader
-- [xhlove/XstreamDL-CLI](https://github.com/xhlove/XstreamDL-CLI) - 命令行版本的HLS/DASH流下载器，支持标准AES-128-CBC解密
+- [xbstory/XstreamDL-CLI](https://github.com/xbstory/XstreamDL-CLI) - 命令行版本的HLS/DASH流下载器，支持标准AES-128-CBC解密
 - [DevLARLEY/WidevineFetch](https://github.com/DevLARLEY/WidevineFetch) - Parses 'Copy as fetch' of a license request, locates the challenge if license wrapping is being used, extracts the pssh data and re-sends the request.
 - [caronc/newsreap](https://github.com/caronc/newsreap) - Usenet Framework that supports posting, indexing and retrieving
 - [wiedehopf/ais2adsb](https://github.com/wiedehopf/ais2adsb) - Simple script to convert AIS NMEA to ADSB basestation format. Main purpose is to plot SAR helicopters in ADSB plotting software like VRS.
@@ -2635,7 +2641,7 @@
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
 - [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling) - Unsupported GPUs in Dell C4130 get throttled, here's how to prevent this from happening.
 - [claws/reverse-geocoder](https://github.com/claws/reverse-geocoder) - A simple reverse geocoder that resolves a location to a country
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [kadalu/kadalu](https://github.com/kadalu/kadalu) - A lightweight Persistent storage solution for Kubernetes / OpenShift / Nomad using GlusterFS in background. More information at https://kadalu.tech
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
@@ -2817,6 +2823,7 @@
 - [yfauser/planespotter](https://github.com/yfauser/planespotter) - Demo App utilizing public Aircraft Tracking Data
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+- [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -3041,6 +3048,10 @@
 
 ## Rust 
 
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox for AI agents, MCP and LLM workloads. Capability-based isolation with secure key management and blocking of destructive actions in a zero-trust environment.
+- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool
+- [j4v3l/ADS-B_TUI](https://github.com/j4v3l/ADS-B_TUI) - A modern, fast, and user-friendly terminal interface for tracking aircraft using ADS-B data. Display real-time flight information in a beautiful table format with country flags, routes, and more.
 - [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [kanidm/hsm-crypto](https://github.com/kanidm/hsm-crypto) - A library for cryptographic operations backed by a HSM or TPM
@@ -3155,7 +3166,7 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [ricott1/sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH
-- [xoolive/jet1090](https://github.com/xoolive/jet1090) - Decode Mode S and ADS-B in Rust/Python
+- [xoolive/jet1090](https://github.com/xoolive/jet1090) - Decode and demodulate Mode S and ADS-B in Rust/Python
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [duo/telegram-fuse](https://github.com/duo/telegram-fuse) - A FUSE filesystem for Telegram storage
@@ -3238,6 +3249,7 @@
 
 ## Shell 
 
+- [throwaway96/faultmanager-autoroot](https://github.com/throwaway96/faultmanager-autoroot) - Exploit to root webOS 4.0+ TVs and set up Homebrew Channel
 - [SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl) - Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation
 - [fmurodov/homeops](https://github.com/fmurodov/homeops) - 🏠 Infrastructure as Code for home Kubernetes cluster running on Talos Linux with Flux CD
 - [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates, native binary default, and Node.js/Bun alternatives
@@ -3485,7 +3497,7 @@
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [yehudacohen/typekro](https://github.com/yehudacohen/typekro) - Manage Kubernetes Resources with Complex Dependencies in Typescript
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
+- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [wiseman/aegis-sim](https://github.com/wiseman/aegis-sim) - Simulation of being in charge of air defense on an AEGIS cruiser
 - [marshift/dune](https://github.com/marshift/dune) - templating engine and static site generator using KDL
@@ -3504,7 +3516,7 @@
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -3576,7 +3588,7 @@
 - [battlebitjs/battlebit.js](https://github.com/battlebitjs/battlebit.js) - A javascript battlebit community server api client
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [FozzieHi/FormulaOne](https://github.com/FozzieHi/FormulaOne) - The Formula One Discord Bot for the r/formula1 Discord Server
@@ -3663,13 +3675,13 @@
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [nwtgck/actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
+- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [xyfir/ptorx](https://github.com/xyfir/ptorx) - 📩🛡 Email privacy. Anonymously send and receive with alias forwarding. (Abandoned)
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
