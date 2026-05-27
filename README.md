@@ -127,6 +127,8 @@
 
 ## C 
 
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
+- [v12-security/pocs](https://github.com/v12-security/pocs) - poc it like it's hot
 - [sq5bpf/telive-2](https://github.com/sq5bpf/telive-2) - Tetra live monitor - experimental version
 - [sq5bpf/osmo-tetra-sq5bpf-2](https://github.com/sq5bpf/osmo-tetra-sq5bpf-2) - Fork of BorjanEch0/osmo-tetra , which is a fork of the original Osmocom TETRA MAC/PHY experimentation code; Mirrored from https://gitea.osmocom.org/tetra/osmo-tetra
 - [sq5bpf/teatime](https://github.com/sq5bpf/teatime) - TEAtime - TEA1 short key recovery
@@ -340,7 +342,7 @@
 - [B3akers/FlyGuys](https://github.com/B3akers/FlyGuys) - 
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [hashbrowncipher/happycache](https://github.com/hashbrowncipher/happycache) - dumps and reloads page cache; happy caches for happy databases
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
 - [kaievns/halmak](https://github.com/kaievns/halmak) - The final version of the AI designed keyboard layout
@@ -470,7 +472,6 @@
 - [google/mount-zip](https://github.com/google/mount-zip) - FUSE file system for ZIP archives
 - [cra-ros-pkg/robot_localization](https://github.com/cra-ros-pkg/robot_localization) - robot_localization is a package of nonlinear state estimation nodes. The package was developed by Charles River Analytics, Inc. Please ask questions on answers.ros.org.
 - [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [CoolNamesAllTaken/adsbee](https://github.com/CoolNamesAllTaken/adsbee) - Open Source Embedded ADS-B Receiver
@@ -501,7 +502,7 @@
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [peterheinrich/InternetOverSpaghetti](https://github.com/peterheinrich/InternetOverSpaghetti) - Transmitting IP packages over a pair of spaghetti thus demonstrating how media independent IP really is.
 - [subsurface/subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
 - [30hours/blah2](https://github.com/30hours/blah2) - A real-time passive radar
@@ -708,6 +709,7 @@
 
 ## Go 
 
+- [lrstanley/girc](https://github.com/lrstanley/girc) - :bomb: girc is a flexible IRC library for Go :ok_hand:
 - [chainguard-forks/ingress-nginx](https://github.com/chainguard-forks/ingress-nginx) - Ingress NGINX Controller for Kubernetes
 - [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
 - [canyonroad/agentsh](https://github.com/canyonroad/agentsh) - Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit.
@@ -844,7 +846,6 @@
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers
 - [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr) - LZR quickly detects and fingerprints unexpected services running on unexpected ports.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
@@ -857,7 +858,7 @@
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [kubernetes-sigs/hydrophone](https://github.com/kubernetes-sigs/hydrophone) - Hydrophone is a lightweight Kubernetes conformance tests runner
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
@@ -1153,7 +1154,7 @@
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [kbudde/rabbitmq_exporter](https://github.com/kbudde/rabbitmq_exporter) - Prometheus exporter for RabbitMQ
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [hashicorp/terraform-k8s](https://github.com/hashicorp/terraform-k8s) - Terraform Cloud Operator for Kubernetes
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
@@ -1333,7 +1334,7 @@
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [vmware-archive/octant](https://github.com/vmware-archive/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [mattmoor/warm-image](https://github.com/mattmoor/warm-image) - A Kubernetes CRD for prefetching container images onto nodes.
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
 - [eldadru/ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
@@ -2002,7 +2003,6 @@
 - [remcovanmook/draft-ipv6-resolved-gateway](https://github.com/remcovanmook/draft-ipv6-resolved-gateway) - This document requests the allocation of a new IPv4 special-purpose address from the IANA IPv4 Special-Purpose Address Registry. The proposed address, 192.0.0.11/32, is intended to serve as a signal t
 - [oskar456/ietf-aaaa-filtering](https://github.com/oskar456/ietf-aaaa-filtering) - IETF Draft about filtering AAAA records in stub resolvers
 - [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) - 
-- [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
@@ -2104,8 +2104,8 @@
 
 ## Others 
 
+- [gargomoma/fakeTec_pcb](https://github.com/gargomoma/fakeTec_pcb) - A low-cost nrf52 device.
 - [krauseler/muxcard](https://github.com/krauseler/muxcard) - A literal credit-card sized computer with E-Paper display,  ESP32 and NFC.
-- [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) - YellowKey Bitlocker Bypass Vulnerability
 - [kilmu1337/pcileech-realtek-cardreader](https://github.com/kilmu1337/pcileech-realtek-cardreader) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
@@ -2367,6 +2367,7 @@
 
 ## Python 
 
+- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
 - [mc343/FrenchRentalScanner](https://github.com/mc343/FrenchRentalScanner) - 🏠 Automatically scan French rental websites (SeLoger, LeBonCoin) for listings. Filter by price, area, location. Track favorites with live dashboard.
 - [WizzardDr/TetraEar-BladeRF](https://github.com/WizzardDr/TetraEar-BladeRF) - TETRA decoder for BladeRF & RTL-SDR with voice decoding, encryption support, and real-time spectrum analyzer
 - [syrex1013/TetraEar](https://github.com/syrex1013/TetraEar) - TETRA decoder for RTL-SDR with voice decoding, encryption support, and real-time spectrum analyzer
@@ -2402,7 +2403,7 @@
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code — 127 skills, auto-trigger commands, session memory management, and project handoffs via markdown-based skills
+- [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code — 127 skills, localhost dashboard with 3-agent orchestration, real-time streaming, MCP tools management, session memory, and project handoffs via markdown-ba
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [markqvist/lc](https://github.com/markqvist/lc) - Humanity's Last Command
@@ -2457,7 +2458,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
 - [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [OpenHands/OpenHands-Cloud](https://github.com/OpenHands/OpenHands-Cloud) - All Hands AI OpenHands Self-hosted Cloud
@@ -3176,6 +3177,8 @@
 
 ## Rust 
 
+- [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage.
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [statewright/statewright](https://github.com/statewright/statewright) - State machine guardrails for AI agents
 - [lora-rs/lora-rs](https://github.com/lora-rs/lora-rs) - LoRa and LoRaWAN crates for End Devices
@@ -3214,8 +3217,8 @@
 - [Psychotropos/flipper_serprog](https://github.com/Psychotropos/flipper_serprog) - A serprog-based SPI programmer to be used in conjuction with flashrom for the Flipper Zero.
 - [EricLBuehler/safetensors_explorer](https://github.com/EricLBuehler/safetensors_explorer) - CLI utility to inspect and explore .safetensors and .gguf files
 - [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) - Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer stuff
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool
 - [j4v3l/ADS-B_TUI](https://github.com/j4v3l/ADS-B_TUI) - A modern, fast, and user-friendly terminal interface for tracking aircraft using ADS-B data. Display real-time flight information in a beautiful table format with country flags, routes, and more.
 - [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh
@@ -3282,6 +3285,7 @@
 - [wiedehopf/acars-bridge](https://github.com/wiedehopf/acars-bridge) - 
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -3505,6 +3509,7 @@
 - [Okazakee/DockerCraft](https://github.com/Okazakee/DockerCraft) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [adsblol/feed](https://github.com/adsblol/feed) - 📡🛰 Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
@@ -3661,8 +3666,9 @@
 
 ## TypeScript 
 
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [falcononrails/jinka-mcp](https://github.com/falcononrails/jinka-mcp) - Private MCP server for Jinka real-estate alerts
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
@@ -3759,6 +3765,7 @@
 - [vradarserver/vrscore](https://github.com/vradarserver/vrscore) - .NET Core version of Virtual Radar Server
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer Platform, Univer Spreadsheets is driven directly through natura
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
