@@ -139,7 +139,7 @@
 - [i12bp8/TagTinker](https://github.com/i12bp8/TagTinker) - Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
 - [kiisu-io/kiisu4-companion-fw](https://github.com/kiisu-io/kiisu4-companion-fw) - Aux MCU (STM32G4) firmware for Flipper Zero compatibility on KIISU V4
 - [sethtroisi/gmp-ecm](https://github.com/sethtroisi/gmp-ecm) - Imported from svn://scm.gforge.inria.fr/svnroot/ecm/
-- [AllogeneSSRD/opencl-ecm](https://github.com/AllogeneSSRD/opencl-ecm) - GMP-ECM with OpenCL — Heterogenous computing across Windows, Linux & Android. Supports GPU (AMD, NVIDIA, Intel, Qualcomm Adreno, Huawei Mali) and accelerators (NPU, Xilinx FPGA, AMD AIE).
+- [AllogeneSSRD/opencl-ecm](https://github.com/AllogeneSSRD/opencl-ecm) - GMP-ECM with OpenCL — Heterogenous computing across Windows, Linux & Android. Supports GPU (AMD, NVIDIA, Intel, Qualcomm Adreno, Huawei Mali) and accelerators (NPU: Xilinx FPGA, AMD AIE).
 - [bazuchan/keychain-pkcs11](https://github.com/bazuchan/keychain-pkcs11) - A shared library that implements a PKCS#11 interface to the Apple Security framework
 - [shokerplz/ft9362-driver](https://github.com/shokerplz/ft9362-driver) - 
 - [V4bel/ITScape](https://github.com/V4bel/ITScape) - 
@@ -155,6 +155,7 @@
 - [mrbreaker/why2025-linux](https://github.com/mrbreaker/why2025-linux) - Getting native NOMMU Linux running on the WHY2025 badge.
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [v12-security/pocs](https://github.com/v12-security/pocs) - poc it like it's hot
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [sq5bpf/telive-2](https://github.com/sq5bpf/telive-2) - Tetra live monitor - experimental version
 - [sq5bpf/osmo-tetra-sq5bpf-2](https://github.com/sq5bpf/osmo-tetra-sq5bpf-2) - Fork of BorjanEch0/osmo-tetra , which is a fork of the original Osmocom TETRA MAC/PHY experimentation code; Mirrored from https://gitea.osmocom.org/tetra/osmo-tetra
 - [sq5bpf/teatime](https://github.com/sq5bpf/teatime) - TEAtime - TEA1 short key recovery
@@ -177,7 +178,7 @@
 - [zacharyweiss/magspoof_flipper](https://github.com/zacharyweiss/magspoof_flipper) - Port of Samy Kamkar's MagSpoof project (http://samy.pl/magspoof/) to the Flipper Zero. Enables wireless emulation of magstripe data, primarily over GPIO, with additional experimental internal TX.
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
 - [estkme-group/lpac](https://github.com/estkme-group/lpac) - C-based eUICC LPA
-- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance adaptive, durable, portable, transactional embeddable storage engine with optional tiered object storage for infinite scale. Designed for flash and RAM optimization.
+- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance write & space optimized transactional storage engine.
 - [DarkFlippers/Multi_Fuzzer](https://github.com/DarkFlippers/Multi_Fuzzer) - Flipper Zero app for checking ibutton and RFID readers (125khz).
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [tat3r/tdfiglet](https://github.com/tat3r/tdfiglet) - A figlet for TheDraw's TDF ANSI fonts
@@ -479,6 +480,7 @@
 
 ## C++ 
 
+- [RFnexus/modem73](https://github.com/RFnexus/modem73) - OFDM software modem that works with any HF/VHF/UHF radio capable of 2400 Hz of bandwidth
 - [sethtroisi/cado-nfs](https://github.com/sethtroisi/cado-nfs) - CADO-NFS is a complete implementation in C/C++ of the Number Field Sieve (NFS) algorithm for factoring integers. For official releases, please see the project website. http://cado-nfs.gforge.inria.fr
 - [SarahRoseLives/DeDECTive](https://github.com/SarahRoseLives/DeDECTive) - The DECT Toolkit
 - [AnthonySturdy/micro-radar](https://github.com/AnthonySturdy/micro-radar) - A tiny open-source flight radar for your desk
@@ -492,7 +494,6 @@
 - [mgrone/stream1090](https://github.com/mgrone/stream1090) - Mode-S demodulation with CRC-based framing
 - [piggz/harbour-amazfish](https://github.com/piggz/harbour-amazfish) - Amazfit Bip support for SailfishOS
 - [odoare/RhyGa](https://github.com/odoare/RhyGa) - RhyGa, the Rhytmic Gate
-- [arjenhiemstra/ithowifi](https://github.com/arjenhiemstra/ithowifi) - Itho wifi  add-on module (ESP32 wifi to itho I2C protocol)
 - [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [izabera/hdrhist](https://github.com/izabera/hdrhist) - a lightweight hdr histogram
 - [jebinshaju/ESP32-Heart-Rate-Monitor](https://github.com/jebinshaju/ESP32-Heart-Rate-Monitor) - A demonstration project using an ESP32 and pulse sensor to measure heart rate and display it on the Blynk IoT platform. This setup allows real-time heart rate monitoring and visualization through a mo
@@ -501,13 +502,13 @@
 - [google/mount-zip](https://github.com/google/mount-zip) - FUSE file system for ZIP archives
 - [cra-ros-pkg/robot_localization](https://github.com/cra-ros-pkg/robot_localization) - robot_localization is a package of nonlinear state estimation nodes. The package was developed by Charles River Analytics, Inc. Please ask questions on answers.ros.org.
 - [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [CoolNamesAllTaken/adsbee](https://github.com/CoolNamesAllTaken/adsbee) - Open Source Embedded ADS-B Receiver
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) - Portspoof
 - [izabera/ssv](https://github.com/izabera/ssv) - 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [JannesP/AudioMirror](https://github.com/JannesP/AudioMirror) - An audio driver for Windows 10 (only tested on x64) that works as a virtual audio cable.
 - [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
@@ -744,6 +745,8 @@
 
 ## Go 
 
+- [kubeswift-io/kubeswift](https://github.com/kubeswift-io/kubeswift) - Kubernetes-native VM orchestration on Cloud Hypervisor
+- [pinpox/punchcard](https://github.com/pinpox/punchcard) - Simple time tracking for small teams built with Go and HTMX with OIDC support
 - [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - Media gateway for Debrid & Usenet.
 - [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service
 - [rsc/uncover](https://github.com/rsc/uncover) - Print uncovered code
@@ -755,7 +758,6 @@
 - [veil-net/conflux](https://github.com/veil-net/conflux) - Connector for decentralised post-quantum secure network - VeilNet
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
-- [tphakala/go-flac](https://github.com/tphakala/go-flac) - Native, pure-Go SIMD-accelerated FLAC encoder and decoder
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [willscott/sp3](https://github.com/willscott/sp3) - (SP)^3: A Simple, Practical, and Safe Packet Spoofing Protocol
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -798,7 +800,7 @@
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [jgbrwn/vibebin](https://github.com/jgbrwn/vibebin) - vibebin: code and host inside Incus containers on your own VPS/server.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [infradohq/headscale-operator](https://github.com/infradohq/headscale-operator) - Headscale Kubernetes Operator
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -1000,7 +1002,7 @@
 - [rystaf/mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 - [clastix/cluster-api-control-plane-provider-kamaji](https://github.com/clastix/cluster-api-control-plane-provider-kamaji) - The Kamaji Control Plane provider implementation of the Cluster Management API
@@ -1119,7 +1121,6 @@
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [jsiebens/brink](https://github.com/jsiebens/brink) - brink - a lightweight identity aware proxy
 - [lucasepe/jumble](https://github.com/lucasepe/jumble) - Create (not just) diagrams stitching, connecting  and labelling images on a grid using HCL syntax (like terraform!).
 - [vmware/k-bench](https://github.com/vmware/k-bench) - Workload Benchmark for Kubernetes
@@ -1382,7 +1383,7 @@
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for delivering SaaS-style, namespace-isolated application instances on Kubernetes
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for delivering SaaS-style, namespace-isolated multi-tenant application instances on Kubernetes
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -1550,6 +1551,7 @@
 - [euctrl-pru/data-app_website](https://github.com/euctrl-pru/data-app_website) - website for EUROCONTROL Data app
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font.
+- [arjenhiemstra/ithowifi](https://github.com/arjenhiemstra/ithowifi) - Itho wifi  add-on module (ESP32 wifi to itho I2C protocol)
 - [markqvist/rnode-flasher](https://github.com/markqvist/rnode-flasher) - A web based firmware flasher for Reticulum / RNode_Firmware
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [Szybet/Yatchy](https://github.com/Szybet/Yatchy) - A modular, hackable, improved watchy like watch
@@ -1630,6 +1632,7 @@
 
 ## HolyC 
 
+- [aiwnios/Aiwnios](https://github.com/aiwnios/Aiwnios) - A HolyC Compiler/Runtime for aarch64/riscv64/amd64 windows/linux/macos/*bsd
 - [aiwnios/EXODUS](https://github.com/aiwnios/EXODUS) - TempleOS in ring 3
 
 ## Inno Setup 
@@ -1662,7 +1665,7 @@
 - [rcombs/PieSpy](https://github.com/rcombs/PieSpy) - PieSpy, but live and animated
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [Shakahs/absb.lol-b2-sync](https://github.com/Shakahs/absb.lol-b2-sync) - 
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare) - An Open-source AirDrop Alternative
 - [jvde-github/AIS-catcher-for-Android](https://github.com/jvde-github/AIS-catcher-for-Android) - Android AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+ and TCP (RTL-TCP and SpyServer). Output is send via UDP and visualized on the built-in map
 - [jonasjuffinger/TimeLapse](https://github.com/jonasjuffinger/TimeLapse) - A time lapse app for Sony Alpha camera using the OpenMemories framework
@@ -1704,6 +1707,7 @@
 
 ## JavaScript 
 
+- [pfeifferj/specdoc](https://github.com/pfeifferj/specdoc) - spec collaboration and lifecycling that isn't terrible
 - [Quad4-Software/MeshChatX](https://github.com/Quad4-Software/MeshChatX) - All-in-one Reticulum client
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -1810,7 +1814,7 @@
 - [jawerty/myAlgorithm](https://github.com/jawerty/myAlgorithm) - A self hosted recommendation feed generated from your browsing habits
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser. Sponsored by https://cloudash.dev
-- [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
+- [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
 - [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
 - [elpatronaco/pccomponentes-buy-bot](https://github.com/elpatronaco/pccomponentes-buy-bot) - A script made to buy any out-of-stock product off spanish stores
 - [juvian/discord-image-dupe](https://github.com/juvian/discord-image-dupe) - Bot that detects image duplicates posted in a server
@@ -1819,7 +1823,7 @@
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [DoctorMcKay/node-steam-user](https://github.com/DoctorMcKay/node-steam-user) - Allows interaction with the Steam network via the Steam client protocol
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [cloudogu/reveal.js-docker](https://github.com/cloudogu/reveal.js-docker) - Docker images providing easier to use, opinionated reveal.js web apps - web-based slides/presentations
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
@@ -2007,6 +2011,7 @@
 
 ## Kotlin 
 
+- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [fulvius31/wifi-wps-wpa-tester-opensource](https://github.com/fulvius31/wifi-wps-wpa-tester-opensource) - A limited and opensource version of the popular app WIFI WPS WPA TESTER
 - [torlando-tech/columba](https://github.com/torlando-tech/columba) - Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
@@ -2018,7 +2023,7 @@
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [simondankelmann/SubMarine](https://github.com/simondankelmann/SubMarine) - 
 - [rrerrNet/Minetrix](https://github.com/rrerrNet/Minetrix) - A Spigot/PaperMC plug-in for connecting your Minecraft server with a Matrix room.
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [Jire/Charlatano](https://github.com/Jire/Charlatano) - Proves JVM cheats are viable on native games, and demonstrates the longevity against anti-cheat signature detection systems
 - [RatPoison-dev/RatPoison](https://github.com/RatPoison-dev/RatPoison) - Latest Ver: 1.7; Default Menu Key is F1; Charlatano's Successor; dn
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
@@ -2092,6 +2097,7 @@
 
 ## Nix 
 
+- [marcusramberg/nixos-fairphone-fp5](https://github.com/marcusramberg/nixos-fairphone-fp5) - NixOS port for Fairphone 5
 - [cloud-gouv/bureautix-example](https://github.com/cloud-gouv/bureautix-example) - 
 - [coder/box](https://github.com/coder/box) - The Box™ is a NixOS-based appliance for Coder
 - [ii/nix](https://github.com/ii/nix) - ii shared NixOS modules — domain=user infrastructure
@@ -2193,6 +2199,7 @@
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
 - [Protocentral/healthypi-move-hw](https://github.com/Protocentral/healthypi-move-hw) - Hardware files for the HealthyPi Move
 - [lazzman/pcileech-fpga-RW1C](https://github.com/lazzman/pcileech-fpga-RW1C) - Modified version of stock pcileech for bypassing the drvscan targeted at detecting RW1C bits.
+- [dom0ng/pcileech-cardreader-RTS522A](https://github.com/dom0ng/pcileech-cardreader-RTS522A) - pcileech-fpga with SD card reader card emulation (Realtek RTS522A PCIe Card Reader)
 - [acageduser/DMA-Attack-Firmware-Customization](https://github.com/acageduser/DMA-Attack-Firmware-Customization) - This cybersecurity guide provides a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board. It is intended for educational and research purposes only.
 - [Silverr12/DMA-CFW-Guide](https://github.com/Silverr12/DMA-CFW-Guide) - Detailed Instructions on the creation of custom/modified DMA (attack) Firmware based on pcileech-fpga
 - [TixieSalander/glauca-digital-graphical-sandbox](https://github.com/TixieSalander/glauca-digital-graphical-sandbox) - just some visuals I made for Glauca.Digital community
@@ -2429,6 +2436,7 @@
 
 ## Python 
 
+- [RFnexus/modem73interface](https://github.com/RFnexus/modem73interface) - A RNS Custom Interface for working with modem73
 - [Appz4Fun/nzbdavkodi](https://github.com/Appz4Fun/nzbdavkodi) - Kodi 21 addon — stream Usenet via NZBHydra2 + nzbdav WebDAV. TMDBHelper player integration, PTT filtering, auto-updates via Kodi repository.
 - [mcpcap/mcpcap](https://github.com/mcpcap/mcpcap) - Network analysis for the AI age
 - [kubevoip/kubevoip](https://github.com/kubevoip/kubevoip) - KubeVoIP is a Kubernetes-native SIP and VoIP platform.
@@ -2448,13 +2456,13 @@
 - [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [adamczykpiotr/adsb-poland-history](https://github.com/adamczykpiotr/adsb-poland-history) - Traces of all flights happening over Polish territory
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
-- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [gretel/chirpmunk-gr4](https://github.com/gretel/chirpmunk-gr4) - C++23 LoRa PHY transceiver and wideband scanner built on MIT Radio 4, paired with a Python toolchain for monitoring, decoding, and telemetry
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
 - [mc343/FrenchRentalScanner](https://github.com/mc343/FrenchRentalScanner) - 🏠 Automatically scan French rental websites (SeLoger, LeBonCoin) for listings. Filter by price, area, location. Track favorites with live dashboard.
@@ -2481,7 +2489,7 @@
 - [cyberjunky/addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr) - Receive P2000 events using Home Assistant and your RTL-SDR dongle
 - [Stanislav-sipiko/passive-sdr-radar](https://github.com/Stanislav-sipiko/passive-sdr-radar) - Passive SDR radar for drone detection
 - [offworldlabs/retina-node](https://github.com/offworldlabs/retina-node) - Orchestrator repository for Retina passive radar nodes
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [Libera-Chat/pyrite](https://github.com/Libera-Chat/pyrite) - IRCv3 downgrade bot
 - [Netflix/void-model](https://github.com/Netflix/void-model) - 
 - [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
@@ -2554,7 +2562,7 @@
 - [OpenHands/OpenHands-Cloud](https://github.com/OpenHands/OpenHands-Cloud) - All Hands AI OpenHands Self-hosted Cloud
 - [Bclound/searCrawl](https://github.com/Bclound/searCrawl) - Sear-Crawl4AI is an open-source search and crawling tool based on SearXNG and Crawl4AI, serving as an open-source alternative to Tavily. It provides similar search and web content extraction capabilit
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [kibitzr/kibitzr](https://github.com/kibitzr/kibitzr) - Personal Web Assistant
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -2591,7 +2599,7 @@
 - [jerpint/context-llemur](https://github.com/jerpint/context-llemur) - Context management tool for LLM collaboration
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [arun1729/cog](https://github.com/arun1729/cog) - Embedded Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [ProcessusT/HEKATOMB](https://github.com/ProcessusT/HEKATOMB) - Hekatomb is a python script that connects to LDAP directory to retrieve all computers and users informations. Then it will download all DPAPI blob of all users from all computers and uses Domain backu
 - [igo95862/bubblejail](https://github.com/igo95862/bubblejail) - Bubblewrap based sandboxing for desktop applications
@@ -2623,7 +2631,6 @@
 - [Juniper/junos-terraform](https://github.com/Juniper/junos-terraform) - 
 - [schibsted/bigip-to-terraform](https://github.com/schibsted/bigip-to-terraform) - Transform running f5 bigip configuration to terraform resources
 - [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense) - Ansible Collection to manage OPNsense firewalls using their API
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [Jekso/AndroidTV-Remote-Controller](https://github.com/Jekso/AndroidTV-Remote-Controller) - Effortlessly control your Android TV using Python and ADB
 - [selkies-project/selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
@@ -2758,6 +2765,7 @@
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [GFW-knocker/gfw_resist_tls_proxy](https://github.com/GFW-knocker/gfw_resist_tls_proxy) - knock up GFW sni detection in tls client hello
 - [jasmcaus/caer](https://github.com/jasmcaus/caer) - High-performance Vision library in Python. Scale your research, not boilerplate.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [ARPSyndicate/puncia](https://github.com/ARPSyndicate/puncia) - Panthera(P.)uncia - Official CLI utility for Osprey Vision, Subdomain Center & Exploit Observer.
@@ -2765,7 +2773,7 @@
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [chickens2/pony-comic-generator](https://github.com/chickens2/pony-comic-generator) - automatically makes comics from chat logs in your clipboard
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
@@ -2797,7 +2805,7 @@
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [ma1co/Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) - Reverse Engineering Sony Digital Cameras
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
 - [system-storage-manager/ssm](https://github.com/system-storage-manager/ssm) - A single tool to manage your storage.
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
@@ -3050,7 +3058,7 @@
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [capitalone/slackbot-destroyer](https://github.com/capitalone/slackbot-destroyer) - :mega: :x: Slack integration that can destroy all incoming messages from Slackbot.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- [alexdredmon/cuteuid](https://github.com/alexdredmon/cuteuid) - 😊 Generate cute UIDs
+- [alexandriax/cuteuid](https://github.com/alexandriax/cuteuid) - 😊 Generate cute UIDs
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -3263,6 +3271,8 @@
 
 ## Rust 
 
+- [trofi/nix-olde](https://github.com/trofi/nix-olde) - Show details about outdated packages in your NixOS system.
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [iandees/osm-gpui](https://github.com/iandees/osm-gpui) - An OSM editor using the Rust-based GUI framework gpui.
 - [razvanzeces/flowstation](https://github.com/razvanzeces/flowstation) - TETRA base station in software — runs on Raspberry Pi, works with real TETRA radios. Built in Rust.
 - [qewer33/sdrrat](https://github.com/qewer33/sdrrat) - discover the RF spectrum from your terminal
@@ -3272,7 +3282,7 @@
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [AusAgentSmith-org/nzbdav-rs](https://github.com/AusAgentSmith-org/nzbdav-rs) - Usenet virtual filesystem with WebDAV serving — stream files directly from Usenet without downloading
-- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache backed by the GitHub Actions cache: zero setup, deduplicated uploads, automatic GC (beta)
+- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache and build matrix for GitHub Actions: eval once, build checks in parallel jobs, deduplicated uploads, automatic GC, zero setup
 - [mustang6139/sdrtop](https://github.com/mustang6139/sdrtop) - Terminal monitor for SDR hardware - written in Rust. Early development.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [gretel/chirpmunk-rs](https://github.com/gretel/chirpmunk-rs) - Rust LoRa PHY transceiver and wideband scanner built on Future SDR
@@ -3385,6 +3395,7 @@
 - [wiedehopf/acars-bridge](https://github.com/wiedehopf/acars-bridge) - 
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -3406,10 +3417,10 @@
 - [aramperes/onetun](https://github.com/aramperes/onetun) - User space WireGuard port-forward in Rust
 - [MystenLabs/ed25519-unsafe-libs](https://github.com/MystenLabs/ed25519-unsafe-libs) - List of unsafe ed25519 signature libs
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [lichuang/replited](https://github.com/lichuang/replited) - Replicate SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)
 - [edera-dev/krata](https://github.com/edera-dev/krata) - krata is a Xen control plane in Rust.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [edera-dev/hyperbench](https://github.com/edera-dev/hyperbench) - Benchmark for hypervisor/sandboxing overhead
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
@@ -3451,7 +3462,7 @@
 - [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [exein-io/pulsar](https://github.com/exein-io/pulsar) - A modular and blazing fast runtime security tool for the IoT, powered by eBPF.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -3597,7 +3608,7 @@
 - [sdr-enthusiasts/docker-shipfeeder](https://github.com/sdr-enthusiasts/docker-shipfeeder) - AIS feeder for ShipXplorer, VesselFinder, MarineTraffic, etc. based on AIS-Catcher. Multi-architecture (amd64, armhf, arm64)
 - [rikgale/VRSOperatorFlags](https://github.com/rikgale/VRSOperatorFlags) - Operator Flags / Silhouettes for Virtual Radar Server
 - [dhruvvyas90/qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
 - [adsblol/globe_history_2023](https://github.com/adsblol/globe_history_2023) - ✈️🗄 2023 Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
 - [tobiasmcvey/rclonesetup](https://github.com/tobiasmcvey/rclonesetup) - How to setup and mount rclone remote drives on boot using Linux and Mac
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
@@ -3774,6 +3785,7 @@
 
 ## TypeScript 
 
+- [angristan/pastekey](https://github.com/angristan/pastekey) - Passkey-only, end-to-end encrypted text and file sharing.
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) - cut Fable 5 token usage by rendering text context as images
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
@@ -3785,7 +3797,6 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [jhbruhn/respira](https://github.com/jhbruhn/respira) - Controller Software for the Brother PP-1 SKiTCH embroidery machine.
 - [Kaliiiiiiiiii-Vinyzu/patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) - Undetected NodeJS version of the Playwright testing and automation library.
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [falcononrails/jinka-mcp](https://github.com/falcononrails/jinka-mcp) - Private MCP server for Jinka real-estate alerts
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
@@ -3793,7 +3804,7 @@
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [eightants/whisperify](https://github.com/eightants/whisperify) - An interactive way to learn about your favourite songs on Spotify. Quiz yourself on your favourite playlists and share quizzes with friends.
-- [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents swarms, from task to merged PR.
+- [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agent swarms, from task to merged PR.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -3889,7 +3900,7 @@
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
@@ -3902,7 +3913,6 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
 - [obviyus/chanson.live](https://github.com/obviyus/chanson.live) - An ultra low-latency WebRTC radio
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
@@ -3959,6 +3969,7 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
@@ -4042,11 +4053,16 @@
 - [yxlnqs/Diviner-full-emu-](https://github.com/yxlnqs/Diviner-full-emu-) - DMA Firmware
 - [ekknod/pcileech-wifi](https://github.com/ekknod/pcileech-wifi) - pcileech-fpga with wireless card emulation
 - [yxlnqs/intel-full-emu-I225](https://github.com/yxlnqs/intel-full-emu-I225) - DMA Firmware or sth idek  | if you dont know what you do then dont change anything on the bar controller
+- [dom0ng/pcileech-multimedia-hd](https://github.com/dom0ng/pcileech-multimedia-hd) - artix7 blackmagic
+- [dom0ng/pcileech-cardreader](https://github.com/dom0ng/pcileech-cardreader) - pcileech-fpga with SD card reader card emulation (Alcor Micro PCIe Card Reader)
 - [Shocka-Zulu/Pcileech-Wifi-GhettoEdition](https://github.com/Shocka-Zulu/Pcileech-Wifi-GhettoEdition) - 
+- [dom0ng/pcileech-wifi-v2](https://github.com/dom0ng/pcileech-wifi-v2) - pcileech-fpga with wireless card emulation (D-Link DWA-556 Xtreme N PCIe Desktop Adapter)
 - [bkerler/LibreSDR_UHD_B220_Mini_FPGA](https://github.com/bkerler/LibreSDR_UHD_B220_Mini_FPGA) - Updated FPGA source code and binaries for UHD B220 Clone with XC7A200T+AD9361
 - [Shocka-Zulu/Soundblaster-Emu-Fw](https://github.com/Shocka-Zulu/Soundblaster-Emu-Fw) - DMA-Nations Free Firmware
 - [yxlnqs/diviner-full-emu-v3](https://github.com/yxlnqs/diviner-full-emu-v3) - DMA Firmware
+- [dom0ng/pcileech-modem](https://github.com/dom0ng/pcileech-modem) - pcileech-fpga with modem card emulation (Lucent PCI-SV92EX Soft Modem)
 - [ekknod/pcileech-multimedia](https://github.com/ekknod/pcileech-multimedia) - spartan6 blackmagic
+- [dom0ng/pcileech-audio](https://github.com/dom0ng/pcileech-audio) - pcileech-fpga with audio card emulation (Creative SB Recon3D PCIe Audio Controller)
 - [dzul221/pcileech-family](https://github.com/dzul221/pcileech-family) - If you need help flashing it or creating it join my discord server https://discord.gg/BckECzDy37
 - [ufrisk/pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) - FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software
 
